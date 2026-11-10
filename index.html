@@ -51,13 +51,16 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
   <script>
+    // CARTO basemaps require a free API key: https://carto.com/basemaps/apikey
+    const CARTO_KEY = "PASTE_YOUR_CARTO_KEY_HERE";
+
     const COLORS = {
       Bronx: "#d1495b", Brooklyn: "#2e86ab", Manhattan: "#edae49",
       Queens: "#3b9c6d", "Staten Island": "#7d5ba6",
     };
 
     const map = L.map("map").setView([40.71, -73.94], 11);
-    L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
+    L.tileLayer(`https://basemaps.cartocdn.com/rastertiles/light_all/{z}/{x}/{y}{r}.png?key=${CARTO_KEY}`, {
       maxZoom: 19,
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>',
     }).addTo(map);

@@ -30,8 +30,9 @@ An interactive map of **462 charter school sites across New York City's five bor
 ## Run locally
 ```bash
 python3 scripts/fetch_data.py      # refresh data/charter_schools.geojson
+# paste your free CARTO key into CARTO_KEY in index.html (https://carto.com/basemaps/apikey)
 python3 -m http.server 8000        # open http://localhost:8000
 ```
 
 ## Stack
-Static HTML + [Leaflet](https://leafletjs.com/) + Leaflet.markercluster, CARTO Positron basemap. No build step; hosted on GitHub Pages.
+Static HTML + [Leaflet](https://leafletjs.com/) + Leaflet.markercluster, CARTO Positron basemap (needs a free CARTO API key). No build step; hosted on GitHub Pages.
