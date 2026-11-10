@@ -1,0 +1,8783 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.91748,
+     40.836727
+    ]
+   },
+   "properties": {
+    "name": "AECI II: NYC Charter High School for Computer Engineering and Innovation",
+    "type": "High School",
+    "address": "116 East 169 Street",
+    "borough": "Bronx",
+    "zip": "10452",
+    "district": "9",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.912798,
+     40.807728
+    ]
+   },
+   "properties": {
+    "name": "Academic Leadership Charter School",
+    "type": "K-8 School",
+    "address": "677 East 141 Street",
+    "borough": "Bronx",
+    "zip": "10454",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.902291,
+     40.756967
+    ]
+   },
+   "properties": {
+    "name": "Academy of the City Charter School",
+    "type": "K-8 School",
+    "address": "31-29 60 Street",
+    "borough": "Queens",
+    "zip": "11377",
+    "district": "30",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.919961,
+     40.812586
+    ]
+   },
+   "properties": {
+    "name": "Access Bronx Charter School",
+    "type": "Elementary School",
+    "address": "388 Willis Avenue",
+    "borough": "Bronx",
+    "zip": "10454",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.883841,
+     40.676954
+    ]
+   },
+   "properties": {
+    "name": "Achievement First Apollo Charter School",
+    "type": "K-8 School",
+    "address": "350 Linwood Street",
+    "borough": "Brooklyn",
+    "zip": "11208",
+    "district": "19",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.876301,
+     40.666111
+    ]
+   },
+   "properties": {
+    "name": "Achievement First Aspire Charter School",
+    "type": "K-8 School",
+    "address": "982 Hegeman Avenue",
+    "borough": "Brooklyn",
+    "zip": "11208",
+    "district": "19",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.913261,
+     40.674499
+    ]
+   },
+   "properties": {
+    "name": "Achievement First Brownsville Charter School",
+    "type": "K-12 All Grades School",
+    "address": "2021 Bergen Street",
+    "borough": "Brooklyn",
+    "zip": "11233",
+    "district": "23",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.919289,
+     40.697702
+    ]
+   },
+   "properties": {
+    "name": "Achievement First Bushwick Charter School",
+    "type": "K-8 School",
+    "address": "1300 Greene Avenue",
+    "borough": "Brooklyn",
+    "zip": "11237",
+    "district": "32",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.936442,
+     40.662076
+    ]
+   },
+   "properties": {
+    "name": "Achievement First Crown Heights Charter School",
+    "type": "K-12 All Grades School",
+    "address": "790 East New York Avenue",
+    "borough": "Brooklyn",
+    "zip": "11203",
+    "district": "17",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.893278,
+     40.66389
+    ]
+   },
+   "properties": {
+    "name": "Achievement First East New York Charter School",
+    "type": "K-12 All Grades School",
+    "address": "557 Pennsylvania Avenue",
+    "borough": "Brooklyn",
+    "zip": "11207",
+    "district": "19",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.965946,
+     40.68241
+    ]
+   },
+   "properties": {
+    "name": "Achievement First Endeavor Charter School",
+    "type": "K-8 School",
+    "address": "510 Waverly Avenue",
+    "borough": "Brooklyn",
+    "zip": "11238",
+    "district": "13",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.763454,
+     40.688282
+    ]
+   },
+   "properties": {
+    "name": "Achievement First Legacy Charter School",
+    "type": "K-8 School",
+    "address": "118-49 Montauk Street",
+    "borough": "Queens",
+    "zip": "11412",
+    "district": "29",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.885658,
+     40.659752
+    ]
+   },
+   "properties": {
+    "name": "Achievement First Linden Charter School",
+    "type": "K-8 School",
+    "address": "800 Van Siclen Avenue",
+    "borough": "Brooklyn",
+    "zip": "11207",
+    "district": "19",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.914894,
+     40.69382
+    ]
+   },
+   "properties": {
+    "name": "Achievement First North Brooklyn Preparatory Charter School",
+    "type": "K-8 School",
+    "address": "200 Woodbine Street",
+    "borough": "Brooklyn",
+    "zip": "11221",
+    "district": "32",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.927672,
+     40.700965
+    ]
+   },
+   "properties": {
+    "name": "Achievement First Voyager Charter School",
+    "type": "K-8 School",
+    "address": "35 Starr Street",
+    "borough": "Brooklyn",
+    "zip": "11221",
+    "district": "32",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.943917,
+     40.790933
+    ]
+   },
+   "properties": {
+    "name": "Amber Charter School East Harlem",
+    "type": "Elementary School",
+    "address": "220 East 106 Street",
+    "borough": "Manhattan",
+    "zip": "10029",
+    "district": "4",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.917607,
+     40.870366
+    ]
+   },
+   "properties": {
+    "name": "Amber Charter School Inwood",
+    "type": "Elementary School",
+    "address": "532 West 215 Street",
+    "borough": "Manhattan",
+    "zip": "10034",
+    "district": "6",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.906996,
+     40.880701
+    ]
+   },
+   "properties": {
+    "name": "Amber Charter School Kingsbridge",
+    "type": "Elementary School",
+    "address": "3120 Corlear Avenue",
+    "borough": "Bronx",
+    "zip": "10463",
+    "district": "10",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.917592,
+     40.809133
+    ]
+   },
+   "properties": {
+    "name": "American Dream Charter School",
+    "type": "Secondary School",
+    "address": "510 East 141 Street",
+    "borough": "Bronx",
+    "zip": "10454",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.932824,
+     40.853513
+    ]
+   },
+   "properties": {
+    "name": "American Dream Charter School II",
+    "type": "Elementary School",
+    "address": "652 West 187 Street",
+    "borough": "Manhattan",
+    "zip": "10033",
+    "district": "6",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.910167,
+     40.875075
+    ]
+   },
+   "properties": {
+    "name": "Atmosphere Academy Public Charter School",
+    "type": "Junior High-Intermediate-Middle School",
+    "address": "22 Marble Hill Avenue",
+    "borough": "Manhattan",
+    "zip": "10463",
+    "district": "10",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.937707,
+     40.69467
+    ]
+   },
+   "properties": {
+    "name": "Bedford Stuyvesant New Beginnings Charter School",
+    "type": "K-8 School",
+    "address": "82 Lewis Avenue",
+    "borough": "Brooklyn",
+    "zip": "11206",
+    "district": "16",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.937707,
+     40.69467
+    ]
+   },
+   "properties": {
+    "name": "Bedford Stuyvesant New Beginnings Charter School II",
+    "type": "Ungraded School",
+    "address": "82 Lewis Avenue",
+    "borough": "Brooklyn",
+    "zip": "11206",
+    "district": "16",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.953478,
+     40.703885
+    ]
+   },
+   "properties": {
+    "name": "Beginning with Children Charter School II",
+    "type": "K-8 School",
+    "address": "215 Heyward Street",
+    "borough": "Brooklyn",
+    "zip": "11206",
+    "district": "14",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.884887,
+     40.840655
+    ]
+   },
+   "properties": {
+    "name": "Bold Charter School",
+    "type": "Elementary School",
+    "address": "1909 Daly Avenue",
+    "borough": "Bronx",
+    "zip": "10460",
+    "district": "12",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.92741,
+     40.820313
+    ]
+   },
+   "properties": {
+    "name": "Boys Preparatory Charter School of New York",
+    "type": "K-8 School",
+    "address": "192 East 151 Street",
+    "borough": "Bronx",
+    "zip": "10451",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.102038,
+     40.608296
+    ]
+   },
+   "properties": {
+    "name": "Bridge Preparatory Charter School",
+    "type": "Elementary School",
+    "address": "715 Ocean Terrace",
+    "borough": "Staten Island",
+    "zip": "10301",
+    "district": "31",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.906592,
+     40.861912
+    ]
+   },
+   "properties": {
+    "name": "Brilla Caritas Charter School",
+    "type": "Elementary School",
+    "address": "2336 Andrews Avenue",
+    "borough": "Bronx",
+    "zip": "10468",
+    "district": "10",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.919342,
+     40.812778
+    ]
+   },
+   "properties": {
+    "name": "Brilla College Preparatory Charter School",
+    "type": "K-8 School",
+    "address": "413 East 144 Street",
+    "borough": "Bronx",
+    "zip": "10454",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.924304,
+     40.838736
+    ]
+   },
+   "properties": {
+    "name": "Brilla Pax Charter School",
+    "type": "Junior High-Intermediate-Middle School",
+    "address": "1248 Nelson Avenue",
+    "borough": "Bronx",
+    "zip": "10452",
+    "district": "9",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.909354,
+     40.818666
+    ]
+   },
+   "properties": {
+    "name": "Brilla Veritas Charter School",
+    "type": "Elementary School",
+    "address": "600 East 156 Street",
+    "borough": "Bronx",
+    "zip": "10455",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.920002,
+     40.83963
+    ]
+   },
+   "properties": {
+    "name": "Bronx Academy of Promise Charter School",
+    "type": "K-8 School",
+    "address": "1349 Inwood Avenue",
+    "borough": "Bronx",
+    "zip": "10452",
+    "district": "9",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.837737,
+     40.825743
+    ]
+   },
+   "properties": {
+    "name": "Bronx Arts and Science Charter School",
+    "type": "Elementary School",
+    "address": "925 Hutchinson River Parkway",
+    "borough": "Bronx",
+    "zip": "10465",
+    "district": "8",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.839658,
+     40.884423
+    ]
+   },
+   "properties": {
+    "name": "Bronx Charter School for Better Learning",
+    "type": "Elementary School",
+    "address": "3740 Baychester Avenue",
+    "borough": "Bronx",
+    "zip": "10466",
+    "district": "11",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.836552,
+     40.864315
+    ]
+   },
+   "properties": {
+    "name": "Bronx Charter School for Better Learning II",
+    "type": "Elementary School",
+    "address": "2545 Gunther Avenue",
+    "borough": "Bronx",
+    "zip": "10469",
+    "district": "11",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.85851,
+     40.834073
+    ]
+   },
+   "properties": {
+    "name": "Bronx Charter School for Excellence",
+    "type": "K-8 School",
+    "address": "1960 Benedict Avenue",
+    "borough": "Bronx",
+    "zip": "10462",
+    "district": "11",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.86415,
+     40.845907
+    ]
+   },
+   "properties": {
+    "name": "Bronx Charter School for Excellence 2",
+    "type": "Elementary School",
+    "address": "1804 Holland Avenue",
+    "borough": "Bronx",
+    "zip": "10462",
+    "district": "11",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.863235,
+     40.888341
+    ]
+   },
+   "properties": {
+    "name": "Bronx Charter School for Excellence 3",
+    "type": "Elementary School",
+    "address": "3956 Carpenter Avenue",
+    "borough": "Bronx",
+    "zip": "10466",
+    "district": "11",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.842246,
+     40.898699
+    ]
+   },
+   "properties": {
+    "name": "Bronx Charter School for Excellence 4",
+    "type": "Elementary School",
+    "address": "4300 Murdock Avenue",
+    "borough": "Bronx",
+    "zip": "10466",
+    "district": "11",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.896579,
+     40.847507
+    ]
+   },
+   "properties": {
+    "name": "Bronx Charter School for Excellence 5",
+    "type": "Elementary School",
+    "address": "1946 Bathgate Avenue",
+    "borough": "Bronx",
+    "zip": "10457",
+    "district": "9",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.88639,
+     40.8217
+    ]
+   },
+   "properties": {
+    "name": "Bronx Charter School for the Arts",
+    "type": "K-8 School",
+    "address": "950 Longfellow Avenue",
+    "borough": "Bronx",
+    "zip": "10474",
+    "district": "8",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.874727,
+     40.872744
+    ]
+   },
+   "properties": {
+    "name": "Bronx Community Charter School",
+    "type": "K-8 School",
+    "address": "3170 Webster Avenue",
+    "borough": "Bronx",
+    "zip": "10467",
+    "district": "10",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.922842,
+     40.823012
+    ]
+   },
+   "properties": {
+    "name": "Bronx Global Learning Institute for Girls Charter School",
+    "type": "K-8 School",
+    "address": "750 Concourse Village West",
+    "borough": "Bronx",
+    "zip": "10451",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.900172,
+     40.838998
+    ]
+   },
+   "properties": {
+    "name": "Bronx Preparatory Charter School",
+    "type": "Secondary School",
+    "address": "3872 Third Avenue",
+    "borough": "Bronx",
+    "zip": "10457",
+    "district": "9",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.920715,
+     40.662076
+    ]
+   },
+   "properties": {
+    "name": "Brooklyn Ascend Charter School",
+    "type": "K-12 All Grades School",
+    "address": "205 Rockaway Parkway",
+    "borough": "Brooklyn",
+    "zip": "11212",
+    "district": "18",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.920715,
+     40.662076
+    ]
+   },
+   "properties": {
+    "name": "Brooklyn Ascend Charter School 6",
+    "type": "Ungraded School",
+    "address": "205 Rockaway Parkway",
+    "borough": "Brooklyn",
+    "zip": "11212",
+    "district": "18",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.947679,
+     40.694436
+    ]
+   },
+   "properties": {
+    "name": "Brooklyn Charter School",
+    "type": "Elementary School",
+    "address": "545 Willoughby Avenue",
+    "borough": "Brooklyn",
+    "zip": "11206",
+    "district": "14",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.969757,
+     40.632087
+    ]
+   },
+   "properties": {
+    "name": "Brooklyn Dreams Charter School",
+    "type": "K-8 School",
+    "address": "259 Parkville Avenue",
+    "borough": "Brooklyn",
+    "zip": "11230",
+    "district": "22",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.933213,
+     40.691547
+    ]
+   },
+   "properties": {
+    "name": "Brooklyn Emerging Leaders Academy Charter School",
+    "type": "High School",
+    "address": "125 Stuyvesant Avenue",
+    "borough": "Brooklyn",
+    "zip": "11221",
+    "district": "16",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.925127,
+     40.689698
+    ]
+   },
+   "properties": {
+    "name": "Brooklyn Excelsior Charter School",
+    "type": "K-8 School",
+    "address": "856 Quincy Street",
+    "borough": "Brooklyn",
+    "zip": "11221",
+    "district": "16",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.987403,
+     40.700447
+    ]
+   },
+   "properties": {
+    "name": "Brooklyn Laboratory Charter School",
+    "type": "Secondary School",
+    "address": "77 Sands Street",
+    "borough": "Brooklyn",
+    "zip": "11201",
+    "district": "13",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.956832,
+     40.681102
+    ]
+   },
+   "properties": {
+    "name": "Brooklyn Prospect Charter School - CSD 13",
+    "type": "K-8 School",
+    "address": "1104 Fulton Street",
+    "borough": "Brooklyn",
+    "zip": "11238",
+    "district": "13",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.00701,
+     40.653426
+    ]
+   },
+   "properties": {
+    "name": "Brooklyn Prospect Charter School - CSD 13.2",
+    "type": "Elementary School",
+    "address": "341 39 Street",
+    "borough": "Brooklyn",
+    "zip": "11232",
+    "district": "15",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.00701,
+     40.653426
+    ]
+   },
+   "properties": {
+    "name": "Brooklyn Prospect Charter School - CSD 15",
+    "type": "Secondary School",
+    "address": "341 39 Street",
+    "borough": "Brooklyn",
+    "zip": "11232",
+    "district": "15",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.978707,
+     40.647955
+    ]
+   },
+   "properties": {
+    "name": "Brooklyn Prospect Charter School - CSD 15.2",
+    "type": "Junior High-Intermediate-Middle School",
+    "address": "3002 Fort Hamilton Parkway",
+    "borough": "Brooklyn",
+    "zip": "11218",
+    "district": "15",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.982135,
+     40.688912
+    ]
+   },
+   "properties": {
+    "name": "Brooklyn RISE Charter School",
+    "type": "Elementary School",
+    "address": "9 Hanover Place",
+    "borough": "Brooklyn",
+    "zip": "11201",
+    "district": "15",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.86731,
+     40.669493
+    ]
+   },
+   "properties": {
+    "name": "Brooklyn Scholars Charter School",
+    "type": "K-8 School",
+    "address": "2635 Linden Boulevard",
+    "borough": "Brooklyn",
+    "zip": "11208",
+    "district": "19",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.982675,
+     40.65627
+    ]
+   },
+   "properties": {
+    "name": "Brooklyn Urban Garden Charter School",
+    "type": "Junior High-Intermediate-Middle School",
+    "address": "500 19 Street",
+    "borough": "Brooklyn",
+    "zip": "11215",
+    "district": "15",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.005144,
+     40.724129
+    ]
+   },
+   "properties": {
+    "name": "Broome Street Academy Charter High School",
+    "type": "High School",
+    "address": "121 Avenue Of The Americas",
+    "borough": "Manhattan",
+    "zip": "10013",
+    "district": "2",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.917852,
+     40.668939
+    ]
+   },
+   "properties": {
+    "name": "Brownsville Ascend Charter School",
+    "type": "K-8 School",
+    "address": "1501 Pitkin Avenue",
+    "borough": "Brooklyn",
+    "zip": "11212",
+    "district": "23",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.943785,
+     40.706982
+    ]
+   },
+   "properties": {
+    "name": "Brownsville Collegiate Charter School",
+    "type": "Junior High-Intermediate-Middle School",
+    "address": "140 Montrose Avenue",
+    "borough": "Brooklyn",
+    "zip": "11206",
+    "district": "14",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.908983,
+     40.693766
+    ]
+   },
+   "properties": {
+    "name": "Bushwick Ascend Charter School",
+    "type": "K-8 School",
+    "address": "751 Knickerbocker Avenue",
+    "borough": "Brooklyn",
+    "zip": "11221",
+    "district": "32",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.900823,
+     40.644193
+    ]
+   },
+   "properties": {
+    "name": "Canarsie Ascend Charter School",
+    "type": "K-8 School",
+    "address": "9719 Flatlands Avenue",
+    "borough": "Brooklyn",
+    "zip": "11236",
+    "district": "18",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.826999,
+     40.880217
+    ]
+   },
+   "properties": {
+    "name": "Capital Preparatory Bronx Charter School",
+    "type": "Secondary School",
+    "address": "755 Co-Op City Boulevard",
+    "borough": "Bronx",
+    "zip": "10475",
+    "district": "11",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.938321,
+     40.808412
+    ]
+   },
+   "properties": {
+    "name": "Capital Preparatory Harlem Charter School",
+    "type": "Secondary School",
+    "address": "2041 Madison Avenue",
+    "borough": "Manhattan",
+    "zip": "10035",
+    "district": "5",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.887361,
+     40.851388
+    ]
+   },
+   "properties": {
+    "name": "Cardinal McCloskey Community Charter School",
+    "type": "Elementary School",
+    "address": "685 East 182 Street",
+    "borough": "Bronx",
+    "zip": "10457",
+    "district": "10",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.949037,
+     40.638991
+    ]
+   },
+   "properties": {
+    "name": "Central Brooklyn Ascend Charter School",
+    "type": "K-8 School",
+    "address": "465 East 29 Street",
+    "borough": "Brooklyn",
+    "zip": "11210",
+    "district": "22",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.875283,
+     40.736628
+    ]
+   },
+   "properties": {
+    "name": "Central Queens Academy Charter School",
+    "type": "Junior High-Intermediate-Middle School",
+    "address": "88-14 Justice Avenue",
+    "borough": "Queens",
+    "zip": "11373",
+    "district": "24",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.875283,
+     40.736628
+    ]
+   },
+   "properties": {
+    "name": "Central Queens Academy Charter School II",
+    "type": "Ungraded School",
+    "address": "88-14 Justice Avenue",
+    "borough": "Queens",
+    "zip": "11373",
+    "district": "24",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.763869,
+     40.60022
+    ]
+   },
+   "properties": {
+    "name": "Challenge Preparatory Charter School",
+    "type": "K-8 School",
+    "address": "710 Hartman Lane",
+    "borough": "Queens",
+    "zip": "11691",
+    "district": "27",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.911724,
+     40.85376
+    ]
+   },
+   "properties": {
+    "name": "Charter High School for Law and Social Justice",
+    "type": "High School",
+    "address": "1960 University Avenue",
+    "borough": "Bronx",
+    "zip": "10453",
+    "district": "10",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.890105,
+     40.843825
+    ]
+   },
+   "properties": {
+    "name": "Children's Aid College Preparatory Charter School",
+    "type": "K-8 School",
+    "address": "1919 Prospect Avenue",
+    "borough": "Bronx",
+    "zip": "10457",
+    "district": "12",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.889126,
+     40.658775
+    ]
+   },
+   "properties": {
+    "name": "Collegiate Academy for Mathematics and Personal Awareness Charter School",
+    "type": "Junior High-Intermediate-Middle School",
+    "address": "1962 Linden Boulevard",
+    "borough": "Brooklyn",
+    "zip": "11207",
+    "district": "19",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.961097,
+     40.689732
+    ]
+   },
+   "properties": {
+    "name": "Community Partnership Charter School",
+    "type": "K-8 School",
+    "address": "241 Emerson Place",
+    "borough": "Brooklyn",
+    "zip": "11205",
+    "district": "13",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.977818,
+     40.695248
+    ]
+   },
+   "properties": {
+    "name": "Community Roots Charter School",
+    "type": "K-8 School",
+    "address": "51 Saint Edwards Street",
+    "borough": "Brooklyn",
+    "zip": "11205",
+    "district": "13",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.971475,
+     40.68854
+    ]
+   },
+   "properties": {
+    "name": "Compass Charter School",
+    "type": "Elementary School",
+    "address": "300 Adelphi Street",
+    "borough": "Brooklyn",
+    "zip": "11205",
+    "district": "13",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.972167,
+     40.582495
+    ]
+   },
+   "properties": {
+    "name": "Coney Island Preparatory Public Charter School",
+    "type": "K-12 All Grades School",
+    "address": "501 West Avenue",
+    "borough": "Brooklyn",
+    "zip": "11224",
+    "district": "21",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.919431,
+     40.816153
+    ]
+   },
+   "properties": {
+    "name": "Creo College Preparatory Charter School",
+    "type": "Junior High-Intermediate-Middle School",
+    "address": "524 Courtlandt Avenue",
+    "borough": "Bronx",
+    "zip": "10451",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.908337,
+     40.654154
+    ]
+   },
+   "properties": {
+    "name": "Cultural Arts Academy Charter School At Spring Creek",
+    "type": "Elementary School",
+    "address": "1400 Linden Boulevard",
+    "borough": "Brooklyn",
+    "zip": "11212",
+    "district": "18",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.867044,
+     40.681194
+    ]
+   },
+   "properties": {
+    "name": "Cypress Hills Ascend Charter School",
+    "type": "Elementary School",
+    "address": "396 Grant Avenue",
+    "borough": "Brooklyn",
+    "zip": "11208",
+    "district": "19",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.944334,
+     40.789276
+    ]
+   },
+   "properties": {
+    "name": "DREAM Charter School East Harlem",
+    "type": "K-12 All Grades School",
+    "address": "1991 Second Avenue",
+    "borough": "Manhattan",
+    "zip": "10029",
+    "district": "4",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.937832,
+     40.81331
+    ]
+   },
+   "properties": {
+    "name": "Democracy Preparatory Charter School",
+    "type": "Secondary School",
+    "address": "2230 5 Avenue",
+    "borough": "Manhattan",
+    "zip": "10037",
+    "district": "5",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.893381,
+     40.823515
+    ]
+   },
+   "properties": {
+    "name": "Democracy Preparatory Endurance Charter School",
+    "type": "Secondary School",
+    "address": "1000 Westchester Avenue",
+    "borough": "Bronx",
+    "zip": "10459",
+    "district": "12",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.945014,
+     40.814558
+    ]
+   },
+   "properties": {
+    "name": "Democracy Preparatory Harlem Charter School",
+    "type": "K-12 All Grades School",
+    "address": "207 West 133 Street",
+    "borough": "Manhattan",
+    "zip": "10030",
+    "district": "5",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.900618,
+     40.827364
+    ]
+   },
+   "properties": {
+    "name": "Dr. Richard Izquierdo Health and Science Charter School",
+    "type": "Secondary School",
+    "address": "800 Home Street",
+    "borough": "Bronx",
+    "zip": "10456",
+    "district": "12",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.921509,
+     40.834721
+    ]
+   },
+   "properties": {
+    "name": "Dream Charter School Highbridge",
+    "type": "Elementary School",
+    "address": "1166 River Avenue",
+    "borough": "Bronx",
+    "zip": "10452",
+    "district": "9",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.929071,
+     40.80704
+    ]
+   },
+   "properties": {
+    "name": "Dream Charter School Mott Haven",
+    "type": "Elementary School",
+    "address": "20 Bruckner Boulevard",
+    "borough": "Bronx",
+    "zip": "10454",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.929814,
+     40.683066
+    ]
+   },
+   "properties": {
+    "name": "EMBER Charter School for Mindful Education, Innovation and Transformation",
+    "type": "K-8 School",
+    "address": "500 Macon Street",
+    "borough": "Brooklyn",
+    "zip": "11233",
+    "district": "16",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.827241,
+     40.845391
+    ]
+   },
+   "properties": {
+    "name": "Earl Monroe New Renaissance Basketball Charter School",
+    "type": "High School",
+    "address": "1617 Parkview Avenue",
+    "borough": "Bronx",
+    "zip": "10461",
+    "district": "8",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.180688,
+     40.604461
+    ]
+   },
+   "properties": {
+    "name": "Early College Charter School",
+    "type": "Secondary School",
+    "address": "1441 South Avenue",
+    "borough": "Staten Island",
+    "zip": "10314",
+    "district": "31",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.882041,
+     40.678187
+    ]
+   },
+   "properties": {
+    "name": "East Brooklyn Ascend Charter School",
+    "type": "Elementary School",
+    "address": "260 Shepherd Avenue",
+    "borough": "Brooklyn",
+    "zip": "11208",
+    "district": "19",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.939575,
+     40.652578
+    ]
+   },
+   "properties": {
+    "name": "East Flatbush Ascend Charter School",
+    "type": "Elementary School",
+    "address": "870 Albany Avenue",
+    "borough": "Brooklyn",
+    "zip": "11203",
+    "district": "18",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.942474,
+     40.790016
+    ]
+   },
+   "properties": {
+    "name": "East Harlem Scholars Academy Charter School",
+    "type": "K-12 All Grades School",
+    "address": "2050 Second Avenue",
+    "borough": "Manhattan",
+    "zip": "10029",
+    "district": "4",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.948623,
+     40.793742
+    ]
+   },
+   "properties": {
+    "name": "East Harlem Scholars Academy Charter School II",
+    "type": "K-8 School",
+    "address": "1573 Madison Avenue",
+    "borough": "Manhattan",
+    "zip": "10029",
+    "district": "4",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.987403,
+     40.700447
+    ]
+   },
+   "properties": {
+    "name": "Edmund W. Gordon Brooklyn Laboratory Charter School",
+    "type": "Secondary School",
+    "address": "77 Sands Street",
+    "borough": "Brooklyn",
+    "zip": "11201",
+    "district": "13",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.883862,
+     40.737628
+    ]
+   },
+   "properties": {
+    "name": "Elm Community Charter School",
+    "type": "Elementary School",
+    "address": "79-17 51 Avenue",
+    "borough": "Queens",
+    "zip": "11373",
+    "district": "24",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.888153,
+     40.820128
+    ]
+   },
+   "properties": {
+    "name": "Emblaze Academy Charter School",
+    "type": "Junior High-Intermediate-Middle School",
+    "address": "1164 Garrison Avenue",
+    "borough": "Bronx",
+    "zip": "10474",
+    "district": "8",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.951477,
+     40.656422
+    ]
+   },
+   "properties": {
+    "name": "Explore Charter School",
+    "type": "K-8 School",
+    "address": "655 Parkside Avenue",
+    "borough": "Brooklyn",
+    "zip": "11226",
+    "district": "17",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.928473,
+     40.672701
+    ]
+   },
+   "properties": {
+    "name": "Explore Empower Charter School",
+    "type": "K-8 School",
+    "address": "188 Rochester Avenue",
+    "borough": "Brooklyn",
+    "zip": "11213",
+    "district": "17",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.907906,
+     40.6427
+    ]
+   },
+   "properties": {
+    "name": "Explore Excel Charter School",
+    "type": "K-8 School",
+    "address": "1077 Remsen Avenue",
+    "borough": "Brooklyn",
+    "zip": "11236",
+    "district": "18",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.918663,
+     40.840279
+    ]
+   },
+   "properties": {
+    "name": "Family Life Academy Charter School",
+    "type": "Elementary School",
+    "address": "14 West 170 Street",
+    "borough": "Bronx",
+    "zip": "10452",
+    "district": "9",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.925121,
+     40.811492
+    ]
+   },
+   "properties": {
+    "name": "Family Life Academy Charter School II",
+    "type": "K-8 School",
+    "address": "296 East 140 Street",
+    "borough": "Bronx",
+    "zip": "10454",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.929943,
+     40.816256
+    ]
+   },
+   "properties": {
+    "name": "Family Life Academy Charter School III",
+    "type": "Elementary School",
+    "address": "370 Gerard Avenue",
+    "borough": "Bronx",
+    "zip": "10451",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.919251,
+     40.84096
+    ]
+   },
+   "properties": {
+    "name": "Family Life Academy Charter Schools High School",
+    "type": "High School",
+    "address": "1401 Inwood Avenue",
+    "borough": "Bronx",
+    "zip": "10452",
+    "district": "9",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.954321,
+     40.65272
+    ]
+   },
+   "properties": {
+    "name": "Flatbush Ascend Charter School",
+    "type": "Elementary School",
+    "address": "123 Linden Boulevard",
+    "borough": "Brooklyn",
+    "zip": "11226",
+    "district": "17",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.87785,
+     40.737389
+    ]
+   },
+   "properties": {
+    "name": "Forte Preparatory Academy Charter School",
+    "type": "Junior High-Intermediate-Middle School",
+    "address": "51-35 Reeder Street",
+    "borough": "Queens",
+    "zip": "11373",
+    "district": "24",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.94842,
+     40.80616
+    ]
+   },
+   "properties": {
+    "name": "Future Leaders Institute Charter School",
+    "type": "K-8 School",
+    "address": "134 West 122 Street",
+    "borough": "Manhattan",
+    "zip": "10027",
+    "district": "3",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.865485,
+     40.829345
+    ]
+   },
+   "properties": {
+    "name": "Girls Preparatory Charter School of New York",
+    "type": "K-8 School",
+    "address": "1160 Beach Avenue",
+    "borough": "Bronx",
+    "zip": "10472",
+    "district": "12",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.901818,
+     40.815992
+    ]
+   },
+   "properties": {
+    "name": "Girls Preparatory Charter School of the Bronx",
+    "type": "K-8 School",
+    "address": "681 Kelly Street",
+    "borough": "Bronx",
+    "zip": "10455",
+    "district": "8",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.88431,
+     40.873647
+    ]
+   },
+   "properties": {
+    "name": "Girls Preparatory Charter School of the Bronx II",
+    "type": "Elementary School",
+    "address": "263 East 203 Street",
+    "borough": "Bronx",
+    "zip": "10458",
+    "district": "10",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.934958,
+     40.816993
+    ]
+   },
+   "properties": {
+    "name": "Global Community Charter School",
+    "type": "Elementary School",
+    "address": "2350 5 Avenue",
+    "borough": "Manhattan",
+    "zip": "10037",
+    "district": "5",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.858738,
+     40.818509
+    ]
+   },
+   "properties": {
+    "name": "Grand Concourse Academy Charter School",
+    "type": "K-8 School",
+    "address": "625 Bolton Avenue",
+    "borough": "Bronx",
+    "zip": "10473",
+    "district": "8",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.002905,
+     40.730575
+    ]
+   },
+   "properties": {
+    "name": "Great Oaks Kathleen Sherry Charter School",
+    "type": "Junior High-Intermediate-Middle School",
+    "address": "240 Bleecker Street",
+    "borough": "Manhattan",
+    "zip": "10014",
+    "district": "2",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.935706,
+     40.753121
+    ]
+   },
+   "properties": {
+    "name": "Growing Up Green Charter School",
+    "type": "K-8 School",
+    "address": "39-27 28 Street",
+    "borough": "Queens",
+    "zip": "11101",
+    "district": "30",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.807511,
+     40.713111
+    ]
+   },
+   "properties": {
+    "name": "Growing Up Green Charter School II",
+    "type": "Elementary School",
+    "address": "84-35 152 Street",
+    "borough": "Queens",
+    "zip": "11432",
+    "district": "28",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.944466,
+     40.795441
+    ]
+   },
+   "properties": {
+    "name": "Harbor Science and Arts Charter School",
+    "type": "K-8 School",
+    "address": "132 East 111 Street",
+    "borough": "Manhattan",
+    "zip": "10029",
+    "district": "4",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.94817,
+     40.81257
+    ]
+   },
+   "properties": {
+    "name": "Harlem Children's Zone Promise Academy Charter School",
+    "type": "K-12 All Grades School",
+    "address": "245 West 129 Street",
+    "borough": "Manhattan",
+    "zip": "10027",
+    "district": "5",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.941019,
+     40.806212
+    ]
+   },
+   "properties": {
+    "name": "Harlem Children's Zone Promise Academy II Charter School",
+    "type": "K-12 All Grades School",
+    "address": "35 East 125 Street",
+    "borough": "Manhattan",
+    "zip": "10035",
+    "district": "5",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.949955,
+     40.798467
+    ]
+   },
+   "properties": {
+    "name": "Harlem Link Charter School",
+    "type": "Elementary School",
+    "address": "21 West 111 Street",
+    "borough": "Manhattan",
+    "zip": "10026",
+    "district": "3",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.935287,
+     40.801539
+    ]
+   },
+   "properties": {
+    "name": "Harlem Prep Charter School",
+    "type": "K-12 All Grades School",
+    "address": "240 East 123 Street",
+    "borough": "Manhattan",
+    "zip": "10035",
+    "district": "4",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.933722,
+     40.799228
+    ]
+   },
+   "properties": {
+    "name": "Harlem Village Academy East Charter School",
+    "type": "K-12 All Grades School",
+    "address": "2351 First Avenue",
+    "borough": "Manhattan",
+    "zip": "10035",
+    "district": "4",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.940806,
+     40.82127
+    ]
+   },
+   "properties": {
+    "name": "Harlem Village Academy North Charter School",
+    "type": "K-12 All Grades School",
+    "address": "244 West 144 Street",
+    "borough": "Manhattan",
+    "zip": "10030",
+    "district": "5",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.945593,
+     40.806717
+    ]
+   },
+   "properties": {
+    "name": "Harlem Village Academy West Charter School",
+    "type": "Elementary School",
+    "address": "74 West 124 Street",
+    "borough": "Manhattan",
+    "zip": "10027",
+    "district": "5",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.905867,
+     40.832257
+    ]
+   },
+   "properties": {
+    "name": "Harriet Tubman Charter School",
+    "type": "K-8 School",
+    "address": "3565 Third Avenue",
+    "borough": "Bronx",
+    "zip": "10456",
+    "district": "9",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.847184,
+     40.844973
+    ]
+   },
+   "properties": {
+    "name": "Haven Charter High School",
+    "type": "K-12 All Grades School",
+    "address": "1529 Williamsbridge Road",
+    "borough": "Bronx",
+    "zip": "10461",
+    "district": "11",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.914173,
+     40.612326
+    ]
+   },
+   "properties": {
+    "name": "Hebrew Language Academy Charter School",
+    "type": "K-8 School",
+    "address": "2186 Mill Avenue",
+    "borough": "Brooklyn",
+    "zip": "11234",
+    "district": "22",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.997106,
+     40.595294
+    ]
+   },
+   "properties": {
+    "name": "Hebrew Language Academy Charter School 2",
+    "type": "Elementary School",
+    "address": "2286 Cropsey Avenue",
+    "borough": "Brooklyn",
+    "zip": "11214",
+    "district": "21",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.992142,
+     40.662928
+    ]
+   },
+   "properties": {
+    "name": "Hellenic Classical Charter School",
+    "type": "K-8 School",
+    "address": "646 Fifth Avenue",
+    "borough": "Brooklyn",
+    "zip": "11215",
+    "district": "15",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.161737,
+     40.607986
+    ]
+   },
+   "properties": {
+    "name": "Hellenic Classical Charter School - Staten Island",
+    "type": "Elementary School",
+    "address": "1641 Richmond Avenue",
+    "borough": "Staten Island",
+    "zip": "10314",
+    "district": "31",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.898198,
+     40.667794
+    ]
+   },
+   "properties": {
+    "name": "Hyde Leadership Charter School - Brooklyn",
+    "type": "K-8 School",
+    "address": "330 Alabama Avenue",
+    "borough": "Brooklyn",
+    "zip": "11207",
+    "district": "19",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.904873,
+     40.838353
+    ]
+   },
+   "properties": {
+    "name": "Icahn Charter School 1",
+    "type": "K-8 School",
+    "address": "1506 Brook Avenue",
+    "borough": "Bronx",
+    "zip": "10457",
+    "district": "9",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.857992,
+     40.845048
+    ]
+   },
+   "properties": {
+    "name": "Icahn Charter School 2",
+    "type": "K-8 School",
+    "address": "1640 Bronxdale Avenue",
+    "borough": "Bronx",
+    "zip": "10462",
+    "district": "11",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.84303,
+     40.856716
+    ]
+   },
+   "properties": {
+    "name": "Icahn Charter School 3",
+    "type": "K-8 School",
+    "address": "1500 Pelham Parkway South",
+    "borough": "Bronx",
+    "zip": "10461",
+    "district": "11",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.84303,
+     40.856716
+    ]
+   },
+   "properties": {
+    "name": "Icahn Charter School 4",
+    "type": "K-8 School",
+    "address": "1500 Pelham Parkway South",
+    "borough": "Bronx",
+    "zip": "10461",
+    "district": "11",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.84303,
+     40.856716
+    ]
+   },
+   "properties": {
+    "name": "Icahn Charter School 5",
+    "type": "K-8 School",
+    "address": "1500 Pelham Parkway South",
+    "borough": "Bronx",
+    "zip": "10461",
+    "district": "11",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.89848,
+     40.841193
+    ]
+   },
+   "properties": {
+    "name": "Icahn Charter School 6",
+    "type": "K-8 School",
+    "address": "1701 Fulton Avenue",
+    "borough": "Bronx",
+    "zip": "10457",
+    "district": "9",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.877098,
+     40.822139
+    ]
+   },
+   "properties": {
+    "name": "Icahn Charter School 7",
+    "type": "K-8 School",
+    "address": "1535 Story Avenue",
+    "borough": "Bronx",
+    "zip": "10473",
+    "district": "8",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.90783,
+     40.678614
+    ]
+   },
+   "properties": {
+    "name": "Imagine Me Leadership Charter School",
+    "type": "K-8 School",
+    "address": "39 Truxton Street",
+    "borough": "Brooklyn",
+    "zip": "11233",
+    "district": "23",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.942248,
+     40.785127
+    ]
+   },
+   "properties": {
+    "name": "Innovation Charter High School",
+    "type": "High School",
+    "address": "410 East 100 Street",
+    "borough": "Manhattan",
+    "zip": "10029",
+    "district": "4",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9092,
+     40.880928
+    ]
+   },
+   "properties": {
+    "name": "International Leadership Charter High School",
+    "type": "High School",
+    "address": "3030 Riverdale Avenue",
+    "borough": "Bronx",
+    "zip": "10463",
+    "district": "10",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.918599,
+     40.865513
+    ]
+   },
+   "properties": {
+    "name": "Inwood Academy for Leadership Charter School",
+    "type": "Secondary School",
+    "address": "3896 10 Avenue",
+    "borough": "Manhattan",
+    "zip": "10034",
+    "district": "6",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.922353,
+     40.643742
+    ]
+   },
+   "properties": {
+    "name": "Ivy Hill Preparatory Charter School",
+    "type": "Elementary School",
+    "address": "475 East 57 Street",
+    "borough": "Brooklyn",
+    "zip": "11203",
+    "district": "18",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.015979,
+     40.705539
+    ]
+   },
+   "properties": {
+    "name": "John V. Lindsay Wildcat Academy Charter School",
+    "type": "High School",
+    "address": "17 Battery Place",
+    "borough": "Manhattan",
+    "zip": "10004",
+    "district": "2",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.180688,
+     40.604461
+    ]
+   },
+   "properties": {
+    "name": "John W. Lavelle Preparatory Charter School",
+    "type": "K-12 All Grades School",
+    "address": "1441 South Avenue",
+    "borough": "Staten Island",
+    "zip": "10314",
+    "district": "31",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.921517,
+     40.822578
+    ]
+   },
+   "properties": {
+    "name": "KIPP Academy Charter School",
+    "type": "K-12 All Grades School",
+    "address": "250 East 156 Street",
+    "borough": "Bronx",
+    "zip": "10451",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.937219,
+     40.67224
+    ]
+   },
+   "properties": {
+    "name": "KIPP Always Mentally Prepared Charter School",
+    "type": "K-12 All Grades School",
+    "address": "1224 Park Place",
+    "borough": "Brooklyn",
+    "zip": "11213",
+    "district": "17",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.960756,
+     40.811106
+    ]
+   },
+   "properties": {
+    "name": "KIPP Beyond Charter School",
+    "type": "Secondary School",
+    "address": "535 West 121 Street",
+    "borough": "Manhattan",
+    "zip": "10027",
+    "district": "3",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.896091,
+     40.868564
+    ]
+   },
+   "properties": {
+    "name": "KIPP Bronx Charter School II",
+    "type": "Elementary School",
+    "address": "2720 Jerome Avenue",
+    "borough": "Bronx",
+    "zip": "10468",
+    "district": "10",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.929671,
+     40.818917
+    ]
+   },
+   "properties": {
+    "name": "KIPP Bronx Charter School III",
+    "type": "Junior High-Intermediate-Middle School",
+    "address": "501 Gerard Avenue",
+    "borough": "Bronx",
+    "zip": "10451",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.890995,
+     40.842603
+    ]
+   },
+   "properties": {
+    "name": "KIPP Freedom Charter School",
+    "type": "Elementary School",
+    "address": "1825 Prospect Avenue",
+    "borough": "Bronx",
+    "zip": "10457",
+    "district": "12",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.957066,
+     40.819787
+    ]
+   },
+   "properties": {
+    "name": "KIPP Infinity Charter School",
+    "type": "K-12 All Grades School",
+    "address": "625 West 133 Street",
+    "borough": "Manhattan",
+    "zip": "10027",
+    "district": "5",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.935709,
+     40.839366
+    ]
+   },
+   "properties": {
+    "name": "KIPP NYC Washington Heights Academy Charter School",
+    "type": "K-12 All Grades School",
+    "address": "21 Jumel Place",
+    "borough": "Manhattan",
+    "zip": "10032",
+    "district": "6",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.957066,
+     40.819787
+    ]
+   },
+   "properties": {
+    "name": "KIPP S.T.A.R. College Preparatory Charter School",
+    "type": "K-12 All Grades School",
+    "address": "625 West 133 Street",
+    "borough": "Manhattan",
+    "zip": "10027",
+    "district": "5",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0122,
+     40.642845
+    ]
+   },
+   "properties": {
+    "name": "LEEP Dual Language Academy Charter School",
+    "type": "Elementary School",
+    "address": "5323 5 Avenue",
+    "borough": "Brooklyn",
+    "zip": "11220",
+    "district": "15",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.932375,
+     40.687946
+    ]
+   },
+   "properties": {
+    "name": "La Cima Charter School",
+    "type": "Elementary School",
+    "address": "800 Gates Avenue",
+    "borough": "Brooklyn",
+    "zip": "11221",
+    "district": "16",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.922514,
+     40.659024
+    ]
+   },
+   "properties": {
+    "name": "Lamad Academy Charter School",
+    "type": "Junior High-Intermediate-Middle School",
+    "address": "1060 Clarkson Avenue",
+    "borough": "Brooklyn",
+    "zip": "11212",
+    "district": "18",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.935222,
+     40.675776
+    ]
+   },
+   "properties": {
+    "name": "Launch Expeditionary Learning Charter School",
+    "type": "Junior High-Intermediate-Middle School",
+    "address": "1580 Dean Street",
+    "borough": "Brooklyn",
+    "zip": "11213",
+    "district": "16",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.88531,
+     40.815877
+    ]
+   },
+   "properties": {
+    "name": "Leaders In Our Neighborhood Charter School",
+    "type": "K-12 All Grades School",
+    "address": "730 Bryant Avenue",
+    "borough": "Bronx",
+    "zip": "10474",
+    "district": "8",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.919534,
+     40.813143
+    ]
+   },
+   "properties": {
+    "name": "Legacy College Preparatory Charter School",
+    "type": "Junior High-Intermediate-Middle School",
+    "address": "416 Willis Avenue",
+    "borough": "Bronx",
+    "zip": "10454",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.984065,
+     40.718259
+    ]
+   },
+   "properties": {
+    "name": "Manhattan Charter School",
+    "type": "Elementary School",
+    "address": "100 Attorney Street",
+    "borough": "Manhattan",
+    "zip": "10002",
+    "district": "1",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.986217,
+     40.713387
+    ]
+   },
+   "properties": {
+    "name": "Manhattan Charter School II",
+    "type": "Elementary School",
+    "address": "220 Henry Street",
+    "borough": "Manhattan",
+    "zip": "10002",
+    "district": "1",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.91543,
+     40.695669
+    ]
+   },
+   "properties": {
+    "name": "Math, Engineering, and Science Academy Charter High School",
+    "type": "High School",
+    "address": "231 Palmetto Street",
+    "borough": "Brooklyn",
+    "zip": "11221",
+    "district": "32",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.001903,
+     40.627818
+    ]
+   },
+   "properties": {
+    "name": "Math, Engineering, and Science Academy Charter High School 2",
+    "type": "High School",
+    "address": "1222 63 Street",
+    "borough": "Brooklyn",
+    "zip": "11219",
+    "district": "20",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.747979,
+     40.678265
+    ]
+   },
+   "properties": {
+    "name": "Merrick Academy - Queens Public Charter School",
+    "type": "Elementary School",
+    "address": "221-06 Merrick Boulevard",
+    "borough": "Queens",
+    "zip": "11413",
+    "district": "29",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.888465,
+     40.710746
+    ]
+   },
+   "properties": {
+    "name": "Middle Village Preparatory Charter School",
+    "type": "Junior High-Intermediate-Middle School",
+    "address": "68-02 Metropolitan Avenue",
+    "borough": "Queens",
+    "zip": "11379",
+    "district": "24",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.902163,
+     40.830992
+    ]
+   },
+   "properties": {
+    "name": "Mott Hall Charter School",
+    "type": "Junior High-Intermediate-Middle School",
+    "address": "1260 Franklin Avenue",
+    "borough": "Bronx",
+    "zip": "10456",
+    "district": "9",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.920886,
+     40.80632
+    ]
+   },
+   "properties": {
+    "name": "Mott Haven Charter School",
+    "type": "K-8 School",
+    "address": "170 Brown Place",
+    "borough": "Bronx",
+    "zip": "10454",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.910525,
+     40.821856
+    ]
+   },
+   "properties": {
+    "name": "NYC Charter High School for Architecture, Engineering and Construction Industries (AECI)",
+    "type": "High School",
+    "address": "838 Brook Avenue",
+    "borough": "Bronx",
+    "zip": "10451",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.752998,
+     40.676199
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "136-25 218 Street",
+    "borough": "Queens",
+    "zip": "11413",
+    "district": "29",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.919771,
+     40.815317
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "500 Courtlandt Avenue",
+    "borough": "Bronx",
+    "zip": "10451",
+    "district": "7",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.938612,
+     40.806987
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "2005 Madison Avenue",
+    "borough": "Manhattan",
+    "zip": "10035",
+    "district": "5",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.103977,
+     40.609286
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "715 Ocean Terrace-Bldg E",
+    "borough": "Staten Island",
+    "zip": "10301",
+    "district": "31",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.865485,
+     40.829345
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1160 Beach Avenue",
+    "borough": "Bronx",
+    "zip": "10472",
+    "district": "12",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.012061,
+     40.643634
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "5224 5Th Ave - 2Nd Fl",
+    "borough": "Brooklyn",
+    "zip": "11220",
+    "district": "15",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.919255,
+     40.862346
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "433 West 204 Street",
+    "borough": "Manhattan",
+    "zip": "10034",
+    "district": "6",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.929071,
+     40.80704
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "20 Bruckner Boulevard",
+    "borough": "Bronx",
+    "zip": "10454",
+    "district": "7",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.937219,
+     40.67224
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1224 Park Place",
+    "borough": "Brooklyn",
+    "zip": "11213",
+    "district": "17",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.877249,
+     40.683403
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "158 Richmond Street",
+    "borough": "Brooklyn",
+    "zip": "11208",
+    "district": "19",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.942088,
+     40.677353
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1485 Pacific St-Rm 306",
+    "borough": "Brooklyn",
+    "zip": "11216",
+    "district": "17",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.897985,
+     40.817601
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "965 Longwood Ave-Floor 2",
+    "borough": "Bronx",
+    "zip": "10459",
+    "district": "8",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.874001,
+     40.824978
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1025 Morrison Avenue",
+    "borough": "Bronx",
+    "zip": "10472",
+    "district": "8",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.915174,
+     40.6955
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "231 Palmetto St-Fl 3-Rm 327A",
+    "borough": "Brooklyn",
+    "zip": "11221",
+    "district": "32",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.893334,
+     40.671639
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "301 Vermont Street",
+    "borough": "Brooklyn",
+    "zip": "11207",
+    "district": "19",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.920886,
+     40.80632
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "170 Brown Place",
+    "borough": "Bronx",
+    "zip": "10454",
+    "district": "7",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.953374,
+     40.816388
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "461 West 131 Street",
+    "borough": "Manhattan",
+    "zip": "10027",
+    "district": "5",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.917284,
+     40.843342
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1504 Macombs Road",
+    "borough": "Bronx",
+    "zip": "10452",
+    "district": "9",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.736929,
+     40.723276
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "92-53 Springfield Boulevard",
+    "borough": "Queens",
+    "zip": "11428",
+    "district": "29",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.93973,
+     40.823208
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "218 West 147 Street",
+    "borough": "Manhattan",
+    "zip": "10039",
+    "district": "5",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.947836,
+     40.697449
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "700 Park Avenue",
+    "borough": "Brooklyn",
+    "zip": "11206",
+    "district": "14",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.92298,
+     40.8643
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "153 Sherman Avenue",
+    "borough": "Manhattan",
+    "zip": "10034",
+    "district": "6",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.945856,
+     40.814952
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "222 West 134 Street",
+    "borough": "Manhattan",
+    "zip": "10030",
+    "district": "5",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.894434,
+     40.822214
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "977 Fox Street",
+    "borough": "Bronx",
+    "zip": "10459",
+    "district": "12",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.877523,
+     40.875371
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "268 East 207 Street",
+    "borough": "Bronx",
+    "zip": "10467",
+    "district": "10",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.827241,
+     40.845391
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1617 Parkview Avenue",
+    "borough": "Bronx",
+    "zip": "10461",
+    "district": "8",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.890995,
+     40.842603
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1825 Prospect Avenue",
+    "borough": "Bronx",
+    "zip": "10457",
+    "district": "12",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.927672,
+     40.700965
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "35 Starr Street",
+    "borough": "Brooklyn",
+    "zip": "11221",
+    "district": "32",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.920715,
+     40.662076
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "205 Rockaway Parkway",
+    "borough": "Brooklyn",
+    "zip": "11212",
+    "district": "18",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.951903,
+     40.805924
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "212 West 120 Street",
+    "borough": "Manhattan",
+    "zip": "10027",
+    "district": "3",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.92673,
+     40.857074
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "549 Audubon Ave-Trailer 30",
+    "borough": "Manhattan",
+    "zip": "10040",
+    "district": "6",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.980995,
+     40.746478
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "111 East 33 Street",
+    "borough": "Manhattan",
+    "zip": "10016",
+    "district": "2",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.91566,
+     40.816768
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "425 Westchester Avenue",
+    "borough": "Bronx",
+    "zip": "10455",
+    "district": "7",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.898989,
+     40.889244
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "5959 Broadway",
+    "borough": "Bronx",
+    "zip": "10463",
+    "district": "10",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.987132,
+     40.590541
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "133 27 Avenue",
+    "borough": "Brooklyn",
+    "zip": "11214",
+    "district": "21",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.752062,
+     40.605591
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "15-26 Central Avenue",
+    "borough": "Queens",
+    "zip": "11691",
+    "district": "27",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.980995,
+     40.746478
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "111 East 33 Street",
+    "borough": "Manhattan",
+    "zip": "10016",
+    "district": "2",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.907684,
+     40.666943
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "213 Osborn Street",
+    "borough": "Brooklyn",
+    "zip": "11212",
+    "district": "23",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.928747,
+     40.658904
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "905 Winthrop Street",
+    "borough": "Brooklyn",
+    "zip": "11203",
+    "district": "18",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.92741,
+     40.820313
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "192 East 151 Street",
+    "borough": "Bronx",
+    "zip": "10451",
+    "district": "7",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.977091,
+     40.686754
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "38 Lafayette Avenue",
+    "borough": "Brooklyn",
+    "zip": "11217",
+    "district": "15",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.942678,
+     40.8143
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "175 West 134 Street",
+    "borough": "Manhattan",
+    "zip": "10030",
+    "district": "5",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.927971,
+     40.863677
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "71 Arden Street",
+    "borough": "Manhattan",
+    "zip": "10040",
+    "district": "6",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.861894,
+     40.886062
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "3901 White Plains Road",
+    "borough": "Bronx",
+    "zip": "10466",
+    "district": "11",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.955587,
+     40.800547
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "211 West 111 Street",
+    "borough": "Manhattan",
+    "zip": "10026",
+    "district": "3",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.917852,
+     40.668939
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1501 Pitkin Avenue",
+    "borough": "Brooklyn",
+    "zip": "11212",
+    "district": "23",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.892205,
+     40.825855
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1093 Southern Boulevard",
+    "borough": "Bronx",
+    "zip": "10459",
+    "district": "12",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.986694,
+     40.704091
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "20 Jay St-Ste 504",
+    "borough": "Brooklyn",
+    "zip": "11201",
+    "district": "13",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.955627,
+     40.815715
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "509 West 129 Street",
+    "borough": "Manhattan",
+    "zip": "10027",
+    "district": "5",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.865485,
+     40.829345
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1160 Beach Avenue",
+    "borough": "Bronx",
+    "zip": "10472",
+    "district": "12",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.957066,
+     40.819787
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "625 West 133 Street",
+    "borough": "Manhattan",
+    "zip": "10027",
+    "district": "5",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.945593,
+     40.806717
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "74 West 124 Street",
+    "borough": "Manhattan",
+    "zip": "10027",
+    "district": "5",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.873294,
+     40.684379
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "95 Pine St, Fl 6",
+    "borough": "Brooklyn",
+    "zip": "11208",
+    "district": "19",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.947966,
+     40.684619
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "832 Marcy Avenue",
+    "borough": "Brooklyn",
+    "zip": "11216",
+    "district": "13",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.944568,
+     40.796018
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "141 East 111 Street",
+    "borough": "Manhattan",
+    "zip": "10029",
+    "district": "4",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.917592,
+     40.809133
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "510 East 141 Street",
+    "borough": "Bronx",
+    "zip": "10454",
+    "district": "7",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.921522,
+     40.664128
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "123 East 98 Street",
+    "borough": "Brooklyn",
+    "zip": "11212",
+    "district": "17",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.953881,
+     40.656253
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "601 Parkside Avenue",
+    "borough": "Brooklyn",
+    "zip": "11226",
+    "district": "17",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.907626,
+     40.820473
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "808 Cauldwell Avenue",
+    "borough": "Bronx",
+    "zip": "10456",
+    "district": "7",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.98101,
+     40.697859
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "50 Navy Street",
+    "borough": "Brooklyn",
+    "zip": "11201",
+    "district": "13",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.946147,
+     40.796558
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "70 East 112 Street",
+    "borough": "Manhattan",
+    "zip": "10029",
+    "district": "4",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.90501,
+     40.839179
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1525 Brook Avenue",
+    "borough": "Bronx",
+    "zip": "10457",
+    "district": "9",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.914175,
+     40.827892
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1000 Tellar Ave",
+    "borough": "Bronx",
+    "zip": "10456",
+    "district": "9",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.917623,
+     40.633725
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "6565 Flatlands Avenue",
+    "borough": "Brooklyn",
+    "zip": "11236",
+    "district": "18",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.925179,
+     40.809405
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "222 Alexander Avenue",
+    "borough": "Bronx",
+    "zip": "10454",
+    "district": "7",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.939669,
+     40.681843
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "272 Macon Street",
+    "borough": "Brooklyn",
+    "zip": "11216",
+    "district": "13",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.79933,
+     40.705863
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "89-25 161 Street",
+    "borough": "Queens",
+    "zip": "11432",
+    "district": "28",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.933107,
+     40.753454
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "38-27 30 Street",
+    "borough": "Queens",
+    "zip": "11101",
+    "district": "30",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.736929,
+     40.723276
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "92-53 Springfield Boulevard",
+    "borough": "Queens",
+    "zip": "11428",
+    "district": "29",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.900059,
+     40.828625
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1180 Tinton Avenue",
+    "borough": "Bronx",
+    "zip": "10456",
+    "district": "12",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.910884,
+     40.635185
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "956 East 82 Street",
+    "borough": "Brooklyn",
+    "zip": "11236",
+    "district": "18",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.986694,
+     40.704091
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "20 Jay St-Ste 504",
+    "borough": "Brooklyn",
+    "zip": "11201",
+    "district": "13",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.932343,
+     40.798442
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "413 East 120 Street",
+    "borough": "Manhattan",
+    "zip": "10035",
+    "district": "4",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.01166,
+     40.708683
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "300 Adelphi-4Th Fl",
+    "borough": "Manhattan",
+    "zip": "10006",
+    "district": "2",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.993859,
+     40.59441
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "8787 24 Avenue",
+    "borough": "Brooklyn",
+    "zip": "11214",
+    "district": "21",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.953699,
+     40.718226
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "217 North 10Th St",
+    "borough": "Brooklyn",
+    "zip": "11211",
+    "district": "14",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.897985,
+     40.817601
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "965 Longwood Ave-Floor 2",
+    "borough": "Bronx",
+    "zip": "10459",
+    "district": "8",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.939181,
+     40.758574
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "37-15 13 Street",
+    "borough": "Queens",
+    "zip": "11101",
+    "district": "30",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.953424,
+     40.64835
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "72 Veronica Place",
+    "borough": "Brooklyn",
+    "zip": "11226",
+    "district": "17",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.939153,
+     40.764524
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "34-12 10 Street",
+    "borough": "Queens",
+    "zip": "11106",
+    "district": "30",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.914455,
+     40.82842
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "316 East 165 Street",
+    "borough": "Bronx",
+    "zip": "10456",
+    "district": "9",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.137127,
+     40.639738
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "26 Sharpe Avenue",
+    "borough": "Staten Island",
+    "zip": "10302",
+    "district": "31",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.956832,
+     40.681107
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1100 Fulton Street",
+    "borough": "Brooklyn",
+    "zip": "11238",
+    "district": "13",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.737451,
+     40.698879
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "115-30 221 Street",
+    "borough": "Queens",
+    "zip": "11411",
+    "district": "29",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.787699,
+     40.692158
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "110-51 Guy R Brewer Boulevard",
+    "borough": "Queens",
+    "zip": "11433",
+    "district": "28",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.947046,
+     40.640343
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "3109 Newkirk Avenue",
+    "borough": "Brooklyn",
+    "zip": "11226",
+    "district": "22",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8907,
+     40.665006
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "720 Livonia Avenue",
+    "borough": "Brooklyn",
+    "zip": "11207",
+    "district": "19",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.923257,
+     40.771222
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "23-40 Astoria Boulevard",
+    "borough": "Queens",
+    "zip": "11102",
+    "district": "30",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.921021,
+     40.869035
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "108 Cooper Street",
+    "borough": "Manhattan",
+    "zip": "10034",
+    "district": "6",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.985514,
+     40.691955
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "80 Willoughby Street",
+    "borough": "Brooklyn",
+    "zip": "11201",
+    "district": "13",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.935116,
+     40.846167
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "586 West 177 Street",
+    "borough": "Manhattan",
+    "zip": "10033",
+    "district": "6",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.930198,
+     40.834302
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "180 West 165 Street",
+    "borough": "Bronx",
+    "zip": "10452",
+    "district": "9",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.913938,
+     40.651343
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "9301 Ave B",
+    "borough": "Brooklyn",
+    "zip": "11236",
+    "district": "18",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.987325,
+     40.697125
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "250 Jay Street",
+    "borough": "Brooklyn",
+    "zip": "11201",
+    "district": "13",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.883889,
+     40.67342
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "2390 Pitkin Avenue",
+    "borough": "Brooklyn",
+    "zip": "11208",
+    "district": "19",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.858808,
+     40.834002
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1952 Benedict Avenue",
+    "borough": "Bronx",
+    "zip": "10462",
+    "district": "11",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.886485,
+     40.655235
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "970 Vermont Street",
+    "borough": "Brooklyn",
+    "zip": "11207",
+    "district": "19",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.931543,
+     40.80845
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "2403 Third Avenue",
+    "borough": "Bronx",
+    "zip": "10451",
+    "district": "7",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.907239,
+     40.849843
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "121 East 177 Street",
+    "borough": "Bronx",
+    "zip": "10453",
+    "district": "9",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.891508,
+     40.829728
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1232 Southern Boulevard",
+    "borough": "Bronx",
+    "zip": "10459",
+    "district": "12",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.850724,
+     40.850109
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1734 Williamsbridge Road",
+    "borough": "Bronx",
+    "zip": "10461",
+    "district": "11",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.909318,
+     40.688731
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "600 Central Avenue",
+    "borough": "Brooklyn",
+    "zip": "11207",
+    "district": "32",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.013096,
+     40.7058
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "26 Broadway-12Th Fl",
+    "borough": "Manhattan",
+    "zip": "10004",
+    "district": "2",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.990399,
+     40.763806
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "439 West 49 Street",
+    "borough": "Manhattan",
+    "zip": "10019",
+    "district": "2",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.981471,
+     40.702471
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "295 Front Street",
+    "borough": "Brooklyn",
+    "zip": "11201",
+    "district": "13",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.813267,
+     40.683267
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "109-55 128 Street",
+    "borough": "Queens",
+    "zip": "11420",
+    "district": "28",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.865485,
+     40.829345
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1160 Beach Avenue",
+    "borough": "Bronx",
+    "zip": "10472",
+    "district": "12",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.949832,
+     40.690525
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "114 Kosciusko Street",
+    "borough": "Brooklyn",
+    "zip": "11216",
+    "district": "13",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.868909,
+     40.692633
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "999 Jamaica Ave-2Nd Fl",
+    "borough": "Brooklyn",
+    "zip": "11208",
+    "district": "19",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.893334,
+     40.671639
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "301 Vermont Street",
+    "borough": "Brooklyn",
+    "zip": "11207",
+    "district": "19",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.852581,
+     40.87516
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1160 East 213 Street",
+    "borough": "Bronx",
+    "zip": "10469",
+    "district": "11",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.91573,
+     40.677924
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1137 Herkimer St-2Nd Fl",
+    "borough": "Brooklyn",
+    "zip": "11233",
+    "district": "23",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.921469,
+     40.815339
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "452 College Avenue",
+    "borough": "Bronx",
+    "zip": "10451",
+    "district": "7",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.910333,
+     40.688922
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "125 Covert Street",
+    "borough": "Brooklyn",
+    "zip": "11207",
+    "district": "32",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.909655,
+     40.811129
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "470 Jackson Ave-3Rd Fl",
+    "borough": "Bronx",
+    "zip": "10455",
+    "district": "7",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.943925,
+     40.806712
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "35 West 124 Street",
+    "borough": "Manhattan",
+    "zip": "10027",
+    "district": "5",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.849619,
+     40.82123
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "2141 Seward Avenue",
+    "borough": "Bronx",
+    "zip": "10473",
+    "district": "8",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.850724,
+     40.850109
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1744 Williamsbridge Road",
+    "borough": "Bronx",
+    "zip": "10461",
+    "district": "11",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.903762,
+     40.857951
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "2246 Jerome Avenue",
+    "borough": "Bronx",
+    "zip": "10453",
+    "district": "10",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.941854,
+     40.788434
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "2017 First Avenue",
+    "borough": "Manhattan",
+    "zip": "10029",
+    "district": "4",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.942205,
+     40.677659
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1485 Pacific Street",
+    "borough": "Brooklyn",
+    "zip": "11216",
+    "district": "17",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.917623,
+     40.633725
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "6565 Flatlands Avenue",
+    "borough": "Brooklyn",
+    "zip": "11236",
+    "district": "18",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.125378,
+     40.633103
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "285 Clove Road",
+    "borough": "Staten Island",
+    "zip": "10310",
+    "district": "31",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.90414,
+     40.829286
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1176 Franklin Avenue",
+    "borough": "Bronx",
+    "zip": "10456",
+    "district": "9",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.908943,
+     40.639214
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "744 East 87 Street",
+    "borough": "Brooklyn",
+    "zip": "11236",
+    "district": "18",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.924384,
+     40.671882
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1600 Park Pl-4Th Fl",
+    "borough": "Brooklyn",
+    "zip": "11233",
+    "district": "17",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.954141,
+     40.802646
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "215 West 114 Street",
+    "borough": "Manhattan",
+    "zip": "10026",
+    "district": "3",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.89642,
+     40.678838
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "99 Jamaica Avenue",
+    "borough": "Brooklyn",
+    "zip": "11207",
+    "district": "19",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.912212,
+     40.870781
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "401 West 218 Street",
+    "borough": "Manhattan",
+    "zip": "10034",
+    "district": "6",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.887982,
+     40.817377
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "830 Hunts Point Avenue",
+    "borough": "Bronx",
+    "zip": "10474",
+    "district": "8",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.904873,
+     40.838353
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1506 Brook Avenue",
+    "borough": "Bronx",
+    "zip": "10457",
+    "district": "9",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.936058,
+     40.663941
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "791 Empire Boulevard",
+    "borough": "Brooklyn",
+    "zip": "11213",
+    "district": "17",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.918016,
+     40.802986
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "164 Bruckman Blvd",
+    "borough": "Bronx",
+    "zip": "10454",
+    "district": "7",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.912723,
+     40.887957
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "3700 Independence Avenue",
+    "borough": "Bronx",
+    "zip": "10463",
+    "district": "10",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.940976,
+     40.78564
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "433 East 100 Street",
+    "borough": "Manhattan",
+    "zip": "10029",
+    "district": "4",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.974225,
+     40.598912
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "294 Avenue T",
+    "borough": "Brooklyn",
+    "zip": "11223",
+    "district": "21",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.172985,
+     40.607354
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1 Corporate Commons-1 Teleport Dr",
+    "borough": "Staten Island",
+    "zip": "10314",
+    "district": "31",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.900949,
+     40.87229
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "652 W 197Th St",
+    "borough": "Bronx",
+    "zip": "10468",
+    "district": "10",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.948795,
+     40.639505
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1886 Nostrand Avenue",
+    "borough": "Brooklyn",
+    "zip": "11226",
+    "district": "22",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.953374,
+     40.816388
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "461 West 131 Street",
+    "borough": "Manhattan",
+    "zip": "10027",
+    "district": "5",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.922657,
+     40.65919
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1060 Clarkson Ave, 4Th Fl",
+    "borough": "Brooklyn",
+    "zip": "11212",
+    "district": "18",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.992142,
+     40.662928
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "646 5 Avenue",
+    "borough": "Brooklyn",
+    "zip": "11215",
+    "district": "15",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.813267,
+     40.683267
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "109-55 128 Street",
+    "borough": "Queens",
+    "zip": "11420",
+    "district": "28",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.945665,
+     40.824745
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "421 West 145 Street",
+    "borough": "Manhattan",
+    "zip": "10031",
+    "district": "6",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.948189,
+     40.700271
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "11 Bartlett Street",
+    "borough": "Brooklyn",
+    "zip": "11206",
+    "district": "14",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.895667,
+     40.643229
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1001 East 100 Street",
+    "borough": "Brooklyn",
+    "zip": "11236",
+    "district": "18",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.888929,
+     40.67641
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "2840 Atlantic Avenue",
+    "borough": "Brooklyn",
+    "zip": "11207",
+    "district": "19",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.906592,
+     40.861912
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "2336 Andrews Avenue",
+    "borough": "Bronx",
+    "zip": "10468",
+    "district": "10",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.909799,
+     40.809316
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "403 Concord Avenue",
+    "borough": "Bronx",
+    "zip": "10454",
+    "district": "7",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.868569,
+     40.818826
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1695 Seward Avenue",
+    "borough": "Bronx",
+    "zip": "10473",
+    "district": "8",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.920276,
+     40.657957
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1084 Lenox Rd-4Th Fl",
+    "borough": "Brooklyn",
+    "zip": "11212",
+    "district": "18",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.931298,
+     40.808301
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "2304 3Rd Ave",
+    "borough": "Bronx",
+    "zip": "10451",
+    "district": "7",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.880773,
+     40.820837
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1440 Story Avenue",
+    "borough": "Bronx",
+    "zip": "10473",
+    "district": "8",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.923399,
+     40.822045
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "730 Concourse Village West",
+    "borough": "Bronx",
+    "zip": "10451",
+    "district": "7",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.914201,
+     40.832263
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "270 East 167 Street",
+    "borough": "Bronx",
+    "zip": "10456",
+    "district": "9",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.942205,
+     40.677659
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1485 Pacific Street",
+    "borough": "Brooklyn",
+    "zip": "11216",
+    "district": "17",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.93518,
+     40.850848
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "4280 Broadway-2Nd Fl",
+    "borough": "Manhattan",
+    "zip": "10033",
+    "district": "6",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.935323,
+     40.688354
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "616 Quincy Street",
+    "borough": "Brooklyn",
+    "zip": "11221",
+    "district": "16",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.903588,
+     40.889481
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "3893 Waldo Avenue",
+    "borough": "Bronx",
+    "zip": "10463",
+    "district": "10",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.947271,
+     40.684709
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "832 Marcy Ave-4Th Fl",
+    "borough": "Brooklyn",
+    "zip": "11216",
+    "district": "13",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.906557,
+     40.681106
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "2 Aberdeen Street",
+    "borough": "Brooklyn",
+    "zip": "11207",
+    "district": "32",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.86849,
+     40.837768
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1776 Mansion Street",
+    "borough": "Bronx",
+    "zip": "10460",
+    "district": "12",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.957534,
+     40.716362
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "584 Driggs Avenue",
+    "borough": "Brooklyn",
+    "zip": "11211",
+    "district": "14",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.91835,
+     40.842108
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1475 Macombs Road",
+    "borough": "Bronx",
+    "zip": "10452",
+    "district": "9",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.929392,
+     40.862789
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "12 Sherman Avenue",
+    "borough": "Manhattan",
+    "zip": "10040",
+    "district": "6",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.893029,
+     40.845457
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1910 Arthur Avenue",
+    "borough": "Bronx",
+    "zip": "10457",
+    "district": "12",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.007212,
+     40.704858
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "99 Wall St - #4487",
+    "borough": "Manhattan",
+    "zip": "10005",
+    "district": "2",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.923626,
+     40.810052
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "356 East 139 Street",
+    "borough": "Bronx",
+    "zip": "10454",
+    "district": "7",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.956098,
+     40.810798
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "433 West 123 Street",
+    "borough": "Manhattan",
+    "zip": "10027",
+    "district": "5",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.873294,
+     40.684379
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "95 Pine St, Fl 6",
+    "borough": "Brooklyn",
+    "zip": "11208",
+    "district": "19",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.753072,
+     40.681981
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "132-55 Ridgedale St-3Rd Fl",
+    "borough": "Queens",
+    "zip": "11413",
+    "district": "29",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.923307,
+     40.822953
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "750 Concourse Village W-Lower Level",
+    "borough": "Bronx",
+    "zip": "10451",
+    "district": "7",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.955014,
+     40.622425
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1256 East 21 Street",
+    "borough": "Brooklyn",
+    "zip": "11210",
+    "district": "22",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.948219,
+     40.641209
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1833 Nostrand Avenue",
+    "borough": "Brooklyn",
+    "zip": "11226",
+    "district": "22",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.942205,
+     40.677659
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "1485 Pacific Street",
+    "borough": "Brooklyn",
+    "zip": "11216",
+    "district": "17",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.94522,
+     40.699256
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "185 Ellery Street",
+    "borough": "Brooklyn",
+    "zip": "11206",
+    "district": "14",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.917338,
+     40.87013
+    ]
+   },
+   "properties": {
+    "name": "NYC Department of Education",
+    "type": "Charter School",
+    "address": "37 Park Terrace East",
+    "borough": "Manhattan",
+    "zip": "10034",
+    "district": "6",
+    "source": "NYSED"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.945354,
+     40.823654
+    ]
+   },
+   "properties": {
+    "name": "Neighborhood Charter School of Harlem",
+    "type": "K-8 School",
+    "address": "691 St Nicholas Avenue",
+    "borough": "Manhattan",
+    "zip": "10030",
+    "district": "6",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.909018,
+     40.808964
+    ]
+   },
+   "properties": {
+    "name": "Neighborhood Charter School: Bronx",
+    "type": "Elementary School",
+    "address": "411 Wales Avenue",
+    "borough": "Bronx",
+    "zip": "10454",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.914195,
+     40.651534
+    ]
+   },
+   "properties": {
+    "name": "New American Academy Charter School",
+    "type": "Elementary School",
+    "address": "9301 Avenue B",
+    "borough": "Brooklyn",
+    "zip": "11236",
+    "district": "18",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.990496,
+     40.683009
+    ]
+   },
+   "properties": {
+    "name": "New Dawn Charter High School",
+    "type": "High School",
+    "address": "242 Hoyt Street",
+    "borough": "Brooklyn",
+    "zip": "11217",
+    "district": "15",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.79933,
+     40.705863
+    ]
+   },
+   "properties": {
+    "name": "New Dawn Charter High School II",
+    "type": "High School",
+    "address": "89-25 161 Street",
+    "borough": "Queens",
+    "zip": "11432",
+    "district": "28",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.94538,
+     40.828851
+    ]
+   },
+   "properties": {
+    "name": "New Heights Academy Charter School",
+    "type": "Secondary School",
+    "address": "1818 Amsterdam Avenue",
+    "borough": "Manhattan",
+    "zip": "10031",
+    "district": "6",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.180688,
+     40.604461
+    ]
+   },
+   "properties": {
+    "name": "New Ventures Charter School",
+    "type": "High School",
+    "address": "1441 South Avenue",
+    "borough": "Staten Island",
+    "zip": "10314",
+    "district": "31",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.125378,
+     40.633103
+    ]
+   },
+   "properties": {
+    "name": "New World Preparatory Charter School",
+    "type": "K-8 School",
+    "address": "285 Clove Road",
+    "borough": "Staten Island",
+    "zip": "10310",
+    "district": "31",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.002461,
+     40.70781
+    ]
+   },
+   "properties": {
+    "name": "New York City Charter School of the Arts",
+    "type": "Junior High-Intermediate-Middle School",
+    "address": "241 Water Street",
+    "borough": "Manhattan",
+    "zip": "10038",
+    "district": "2",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.954234,
+     40.807537
+    ]
+   },
+   "properties": {
+    "name": "New York French-American Charter School",
+    "type": "K-8 School",
+    "address": "311 West 120 Street",
+    "borough": "Manhattan",
+    "zip": "10027",
+    "district": "3",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.948027,
+     40.71968
+    ]
+   },
+   "properties": {
+    "name": "Northside Charter High School",
+    "type": "High School",
+    "address": "424 Leonard Street",
+    "borough": "Brooklyn",
+    "zip": "11222",
+    "district": "14",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.930198,
+     40.834302
+    ]
+   },
+   "properties": {
+    "name": "Nuasin Next Generation Charter School",
+    "type": "K-12 All Grades School",
+    "address": "180 West 165 Street",
+    "borough": "Bronx",
+    "zip": "10452",
+    "district": "9",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.955496,
+     40.801592
+    ]
+   },
+   "properties": {
+    "name": "Opportunity Charter School",
+    "type": "Secondary School",
+    "address": "240 West 113 Street",
+    "borough": "Manhattan",
+    "zip": "10026",
+    "district": "3",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.924108,
+     40.755804
+    ]
+   },
+   "properties": {
+    "name": "Our World Neighborhood Charter School",
+    "type": "K-8 School",
+    "address": "36-12 35 Avenue",
+    "borough": "Queens",
+    "zip": "11106",
+    "district": "30",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.855881,
+     40.671282
+    ]
+   },
+   "properties": {
+    "name": "Our World Neighborhood Charter School 2",
+    "type": "Elementary School",
+    "address": "135-25 79 Street",
+    "borough": "Queens",
+    "zip": "11414",
+    "district": "27",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.856133,
+     40.751282
+    ]
+   },
+   "properties": {
+    "name": "Our World Neighborhood Charter School 3",
+    "type": "Elementary School",
+    "address": "108-68 Roosevelt Avenue",
+    "borough": "Queens",
+    "zip": "11368",
+    "district": "24",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.003931,
+     40.675988
+    ]
+   },
+   "properties": {
+    "name": "PAVE Academy Charter School",
+    "type": "K-8 School",
+    "address": "732 Henry Street",
+    "borough": "Brooklyn",
+    "zip": "11231",
+    "district": "15",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.752415,
+     40.601134
+    ]
+   },
+   "properties": {
+    "name": "Peninsula Preparatory Academy Charter School",
+    "type": "Elementary School",
+    "address": "611 Beach 19 Street",
+    "borough": "Queens",
+    "zip": "11691",
+    "district": "27",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.897386,
+     40.823233
+    ]
+   },
+   "properties": {
+    "name": "Pharos Academy Charter School",
+    "type": "K-12 All Grades School",
+    "address": "1001 Intervale Avenue",
+    "borough": "Bronx",
+    "zip": "10459",
+    "district": "12",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.884827,
+     40.749936
+    ]
+   },
+   "properties": {
+    "name": "Renaissance Charter School",
+    "type": "K-12 All Grades School",
+    "address": "35-59 81 Street",
+    "borough": "Queens",
+    "zip": "11372",
+    "district": "30",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.882087,
+     40.740881
+    ]
+   },
+   "properties": {
+    "name": "Renaissance Charter School 2",
+    "type": "K-12 All Grades School",
+    "address": "45-20 83 Street",
+    "borough": "Queens",
+    "zip": "11373",
+    "district": "24",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.162545,
+     40.592268
+    ]
+   },
+   "properties": {
+    "name": "Richmond Preparatory Charter School",
+    "type": "Secondary School",
+    "address": "2245 Richmond Avenue",
+    "borough": "Staten Island",
+    "zip": "10314",
+    "district": "31",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.763605,
+     40.689381
+    ]
+   },
+   "properties": {
+    "name": "Riverton Street Charter School",
+    "type": "K-8 School",
+    "address": "118-34 Riverton Street",
+    "borough": "Queens",
+    "zip": "11412",
+    "district": "29",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.778182,
+     40.679749
+    ]
+   },
+   "properties": {
+    "name": "Rochdale Early Advantage Charter School",
+    "type": "Elementary School",
+    "address": "122-05 Smith Street",
+    "borough": "Queens",
+    "zip": "11434",
+    "district": "28",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.925397,
+     40.820486
+    ]
+   },
+   "properties": {
+    "name": "Rosalyn Yalow Charter School",
+    "type": "Elementary School",
+    "address": "650 Grand Concourse",
+    "borough": "Bronx",
+    "zip": "10451",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.936159,
+     40.848792
+    ]
+   },
+   "properties": {
+    "name": "School in the Square Public Charter School",
+    "type": "K-12 All Grades School",
+    "address": "120 Wadsworth Avenue",
+    "borough": "Manhattan",
+    "zip": "10033",
+    "district": "6",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.952638,
+     40.815747
+    ]
+   },
+   "properties": {
+    "name": "Sisulu-Walker Charter School of Harlem",
+    "type": "Elementary School",
+    "address": "71 Convent Avenue",
+    "borough": "Manhattan",
+    "zip": "10027",
+    "district": "5",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.917781,
+     40.802917
+    ]
+   },
+   "properties": {
+    "name": "South Bronx Charter School for International Cultures and the Arts",
+    "type": "K-8 School",
+    "address": "164 Bruckner Boulevard",
+    "borough": "Bronx",
+    "zip": "10454",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.894434,
+     40.822214
+    ]
+   },
+   "properties": {
+    "name": "South Bronx Classical Charter School",
+    "type": "K-8 School",
+    "address": "977 Fox Street",
+    "borough": "Bronx",
+    "zip": "10459",
+    "district": "12",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.925779,
+     40.808267
+    ]
+   },
+   "properties": {
+    "name": "South Bronx Classical Charter School II",
+    "type": "K-8 School",
+    "address": "333 East 135 Street",
+    "borough": "Bronx",
+    "zip": "10454",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.906196,
+     40.829519
+    ]
+   },
+   "properties": {
+    "name": "South Bronx Classical Charter School III",
+    "type": "Elementary School",
+    "address": "3458 Third Avenue",
+    "borough": "Bronx",
+    "zip": "10456",
+    "district": "9",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.923255,
+     40.823914
+    ]
+   },
+   "properties": {
+    "name": "South Bronx Classical Charter School IV",
+    "type": "Elementary School",
+    "address": "757 Concourse Village West",
+    "borough": "Bronx",
+    "zip": "10451",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.893728,
+     40.882557
+    ]
+   },
+   "properties": {
+    "name": "South Bronx Classical Charter School V",
+    "type": "K-12 All Grades School",
+    "address": "3880 Sedgwick Avenue",
+    "borough": "Bronx",
+    "zip": "10463",
+    "district": "10",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.907893,
+     40.828773
+    ]
+   },
+   "properties": {
+    "name": "South Bronx Community Charter High School",
+    "type": "High School",
+    "address": "1110 Washington Avenue",
+    "borough": "Bronx",
+    "zip": "10456",
+    "district": "9",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.904228,
+     40.818098
+    ]
+   },
+   "properties": {
+    "name": "South Bronx Early College Academy Charter School",
+    "type": "Junior High-Intermediate-Middle School",
+    "address": "766 Westchester Avenue",
+    "borough": "Bronx",
+    "zip": "10455",
+    "district": "8",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.945856,
+     40.814952
+    ]
+   },
+   "properties": {
+    "name": "St. HOPE Leadership Academy Charter School",
+    "type": "Junior High-Intermediate-Middle School",
+    "address": "222 West 134 Street",
+    "borough": "Manhattan",
+    "zip": "10030",
+    "district": "5",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.08335,
+     40.575896
+    ]
+   },
+   "properties": {
+    "name": "Staten Island Hebrew Public Charter School",
+    "type": "Elementary School",
+    "address": "829 Father Capodanno Boulevard",
+    "borough": "Staten Island",
+    "zip": "10305",
+    "district": "31",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.908777,
+     40.814962
+    ]
+   },
+   "properties": {
+    "name": "Storefront Academy Charter School",
+    "type": "Elementary School",
+    "address": "609 Jackson Avenue",
+    "borough": "Bronx",
+    "zip": "10455",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.934354,
+     40.794912
+    ]
+   },
+   "properties": {
+    "name": "Storefront Academy Harlem Charter School",
+    "type": "Elementary School",
+    "address": "439 East 115 Street",
+    "borough": "Manhattan",
+    "zip": "10029",
+    "district": "4",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.947265,
+     40.696713
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Bed Stuy 1",
+    "type": "K-8 School",
+    "address": "70 Tompkins Avenue",
+    "borough": "Brooklyn",
+    "zip": "11206",
+    "district": "14",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.943402,
+     40.697711
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Bed Stuy 2",
+    "type": "Elementary School",
+    "address": "211 Throop Avenue",
+    "borough": "Brooklyn",
+    "zip": "11206",
+    "district": "14",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.94071,
+     40.691478
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Bed Stuy 3",
+    "type": "Junior High-Intermediate-Middle School",
+    "address": "787 Lafayette Avenue",
+    "borough": "Brooklyn",
+    "zip": "11221",
+    "district": "16",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.984974,
+     40.607998
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Bensonhurst",
+    "type": "Elementary School",
+    "address": "99 Avenue P",
+    "borough": "Brooklyn",
+    "zip": "11204",
+    "district": "21",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.91306,
+     40.620806
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Bergen Beach",
+    "type": "K-8 School",
+    "address": "1420 East 68 Street",
+    "borough": "Brooklyn",
+    "zip": "11234",
+    "district": "22",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.92592,
+     40.813728
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Bronx 1",
+    "type": "Elementary School",
+    "address": "339 Morris Avenue",
+    "borough": "Bronx",
+    "zip": "10451",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.904927,
+     40.835887
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Bronx 2",
+    "type": "K-8 School",
+    "address": "450 Saint Paul'S Place",
+    "borough": "Bronx",
+    "zip": "10456",
+    "district": "9",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.913813,
+     40.827731
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Bronx 3",
+    "type": "K-8 School",
+    "address": "1000 Teller Avenue",
+    "borough": "Bronx",
+    "zip": "10456",
+    "district": "9",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.860077,
+     40.823294
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Bronx 4",
+    "type": "Elementary School",
+    "address": "885 Bolton Avenue",
+    "borough": "Bronx",
+    "zip": "10473",
+    "district": "8",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.919484,
+     40.696043
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Bushwick",
+    "type": "Elementary School",
+    "address": "139 Menahan Street",
+    "borough": "Brooklyn",
+    "zip": "11221",
+    "district": "32",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.993653,
+     40.685166
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Cobble Hill",
+    "type": "Elementary School",
+    "address": "284 Baltic Street",
+    "borough": "Brooklyn",
+    "zip": "11201",
+    "district": "15",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.949227,
+     40.665923
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Crown Heights",
+    "type": "K-8 School",
+    "address": "330 Crown Street",
+    "borough": "Brooklyn",
+    "zip": "11225",
+    "district": "17",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.749801,
+     40.603951
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Far Rockaway",
+    "type": "Elementary School",
+    "address": "10-45 Nameoke Street",
+    "borough": "Queens",
+    "zip": "11691",
+    "district": "27",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.957499,
+     40.648795
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Flatbush",
+    "type": "Elementary School",
+    "address": "15 Snyder Avenue",
+    "borough": "Brooklyn",
+    "zip": "11226",
+    "district": "17",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.948153,
+     40.802674
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Harlem 1",
+    "type": "K-12 All Grades School",
+    "address": "34 West 118 Street",
+    "borough": "Manhattan",
+    "zip": "10026",
+    "district": "3",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.935405,
+     40.805691
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Harlem 2",
+    "type": "K-8 School",
+    "address": "144 East 128 Street",
+    "borough": "Manhattan",
+    "zip": "10035",
+    "district": "5",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.942248,
+     40.785127
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Harlem 3",
+    "type": "K-12 All Grades School",
+    "address": "410 East 100 Street",
+    "borough": "Manhattan",
+    "zip": "10029",
+    "district": "4",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.955496,
+     40.801592
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Harlem 4",
+    "type": "Elementary School",
+    "address": "240 West 113 Street",
+    "borough": "Manhattan",
+    "zip": "10026",
+    "district": "3",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.944468,
+     40.820184
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Harlem 5",
+    "type": "K-8 School",
+    "address": "301 West 140 Street",
+    "borough": "Manhattan",
+    "zip": "10030",
+    "district": "5",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.877523,
+     40.875371
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Harlem 6",
+    "type": "Elementary School",
+    "address": "268 East 207 Street",
+    "borough": "Bronx",
+    "zip": "10467",
+    "district": "10",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.990399,
+     40.763806
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Hell's Kitchen",
+    "type": "Elementary School",
+    "address": "439 West 49 Street",
+    "borough": "Manhattan",
+    "zip": "10019",
+    "district": "2",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.996494,
+     40.758772
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Hudson Yards",
+    "type": "Elementary School",
+    "address": "500 West 41 Street",
+    "borough": "Manhattan",
+    "zip": "10036",
+    "district": "2",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.85098,
+     40.829495
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - NYC 12",
+    "type": "Ungraded School",
+    "address": "2169 Blackrock Avenue",
+    "borough": "Bronx",
+    "zip": "10472",
+    "district": "8",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.83306,
+     40.661297
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - NYC 14",
+    "type": "Ungraded School",
+    "address": "158-10 101 Street",
+    "borough": "Queens",
+    "zip": "11414",
+    "district": "27",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.863765,
+     40.876093
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - NYC 5",
+    "type": "K-12 All Grades School",
+    "address": "760 East Gun Hill Road",
+    "borough": "Bronx",
+    "zip": "10467",
+    "district": "11",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.863765,
+     40.876093
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - NYC 6",
+    "type": "Ungraded School",
+    "address": "760 East Gun Hill Road",
+    "borough": "Bronx",
+    "zip": "10467",
+    "district": "11",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.901835,
+     40.869156
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - NYC 7",
+    "type": "Ungraded School",
+    "address": "124 Eames Place",
+    "borough": "Bronx",
+    "zip": "10468",
+    "district": "10",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.951361,
+     40.673946
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Prospect Heights",
+    "type": "K-8 School",
+    "address": "760 Prospect Place",
+    "borough": "Brooklyn",
+    "zip": "11216",
+    "district": "17",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.738287,
+     40.655521
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Rosedale",
+    "type": "Elementary School",
+    "address": "147-65 249 Street",
+    "borough": "Queens",
+    "zip": "11422",
+    "district": "29",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.936711,
+     40.593505
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Sheepshead Bay",
+    "type": "Elementary School",
+    "address": "3000 Avenue X",
+    "borough": "Brooklyn",
+    "zip": "11235",
+    "district": "22",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.799784,
+     40.675604
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - South Jamaica",
+    "type": "Elementary School",
+    "address": "120-27 141 Street",
+    "borough": "Queens",
+    "zip": "11436",
+    "district": "27",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.753028,
+     40.681805
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Springfield Gardens - New York 6",
+    "type": "K-8 School",
+    "address": "132-55 Ridgedale Street",
+    "borough": "Queens",
+    "zip": "11413",
+    "district": "29",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.987087,
+     40.735327
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Union Square",
+    "type": "K-8 School",
+    "address": "40 Irving Place",
+    "borough": "Manhattan",
+    "zip": "10003",
+    "district": "2",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.974052,
+     40.785973
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Upper West",
+    "type": "K-8 School",
+    "address": "145 West 84 Street",
+    "borough": "Manhattan",
+    "zip": "10024",
+    "district": "3",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.935615,
+     40.858139
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Washington Heights",
+    "type": "Elementary School",
+    "address": "701 Fort Washington Avenue",
+    "borough": "Manhattan",
+    "zip": "10040",
+    "district": "6",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.959972,
+     40.711868
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School - Williamsburg",
+    "type": "Elementary School",
+    "address": "183 South 3 Street",
+    "borough": "Brooklyn",
+    "zip": "11211",
+    "district": "14",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.915377,
+     40.806569
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School \u2013 Bronx 5 Lower",
+    "type": "Elementary School",
+    "address": "604 East 139 Street",
+    "borough": "Bronx",
+    "zip": "10454",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.915377,
+     40.806569
+    ]
+   },
+   "properties": {
+    "name": "Success Academy Charter School \u2013 Bronx 5 Upper",
+    "type": "Elementary School",
+    "address": "604 East 139 Street",
+    "borough": "Bronx",
+    "zip": "10454",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.004866,
+     40.677853
+    ]
+   },
+   "properties": {
+    "name": "Summit Academy Charter School",
+    "type": "Secondary School",
+    "address": "27 Huntington Street",
+    "borough": "Brooklyn",
+    "zip": "11231",
+    "district": "15",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.823949,
+     40.864157
+    ]
+   },
+   "properties": {
+    "name": "The Equality Charter School",
+    "type": "Secondary School",
+    "address": "4140 Hutchinson River Parkway East",
+    "borough": "Bronx",
+    "zip": "10475",
+    "district": "11",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.92298,
+     40.8643
+    ]
+   },
+   "properties": {
+    "name": "The Equity Project Charter School",
+    "type": "K-8 School",
+    "address": "153 Sherman Avenue",
+    "borough": "Manhattan",
+    "zip": "10034",
+    "district": "6",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.932375,
+     40.687946
+    ]
+   },
+   "properties": {
+    "name": "Uncommon Bed-Stuy East Charter School NYC",
+    "type": "Junior High-Intermediate-Middle School",
+    "address": "800 Gates Avenue",
+    "borough": "Brooklyn",
+    "zip": "11221",
+    "district": "16",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.945567,
+     40.68193
+    ]
+   },
+   "properties": {
+    "name": "Uncommon Bed-Stuy West Charter School NYC",
+    "type": "K-12 All Grades School",
+    "address": "141 Macon Street",
+    "borough": "Brooklyn",
+    "zip": "11216",
+    "district": "13",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.906076,
+     40.672287
+    ]
+   },
+   "properties": {
+    "name": "Uncommon Brownsville North Charter School NYC",
+    "type": "K-12 All Grades School",
+    "address": "51 Christopher Avenue",
+    "borough": "Brooklyn",
+    "zip": "11212",
+    "district": "23",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.906689,
+     40.655772
+    ]
+   },
+   "properties": {
+    "name": "Uncommon Brownsville South Charter School NYC",
+    "type": "K-8 School",
+    "address": "985 Rockaway Avenue",
+    "borough": "Brooklyn",
+    "zip": "11212",
+    "district": "23",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.892666,
+     40.644081
+    ]
+   },
+   "properties": {
+    "name": "Uncommon Canarsie Charter School NYC",
+    "type": "K-8 School",
+    "address": "1070 East 104 Street",
+    "borough": "Brooklyn",
+    "zip": "11236",
+    "district": "18",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.915368,
+     40.678078
+    ]
+   },
+   "properties": {
+    "name": "Uncommon Crown Heights Charter School NYC",
+    "type": "K-8 School",
+    "address": "1137 Herkimer Street",
+    "borough": "Brooklyn",
+    "zip": "11233",
+    "district": "23",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.925848,
+     40.68345
+    ]
+   },
+   "properties": {
+    "name": "Uncommon Excellence Boys Charter School NYC",
+    "type": "K-8 School",
+    "address": "225 Patchen Avenue",
+    "borough": "Brooklyn",
+    "zip": "11233",
+    "district": "16",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.924396,
+     40.688127
+    ]
+   },
+   "properties": {
+    "name": "Uncommon Excellence Girls Charter School NYC",
+    "type": "K-12 All Grades School",
+    "address": "794 Monroe Street",
+    "borough": "Brooklyn",
+    "zip": "11221",
+    "district": "16",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.920037,
+     40.657879
+    ]
+   },
+   "properties": {
+    "name": "Uncommon Kings Charter School NYC",
+    "type": "K-12 All Grades School",
+    "address": "1084 Lenox Road",
+    "borough": "Brooklyn",
+    "zip": "11212",
+    "district": "18",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.962076,
+     40.705899
+    ]
+   },
+   "properties": {
+    "name": "Uncommon Williamsburg Charter School NYC",
+    "type": "Junior High-Intermediate-Middle School",
+    "address": "157 Wilson Street",
+    "borough": "Brooklyn",
+    "zip": "11211",
+    "district": "14",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.913122,
+     40.877248
+    ]
+   },
+   "properties": {
+    "name": "United Charter High School for Advanced Math and Science",
+    "type": "High School",
+    "address": "99 Terrace View Avenue",
+    "borough": "Manhattan",
+    "zip": "10463",
+    "district": "10",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.783244,
+     40.674754
+    ]
+   },
+   "properties": {
+    "name": "United Charter High School for Advanced Math and Science lV",
+    "type": "High School",
+    "address": "156-10 Baisley Boulevard",
+    "borough": "Queens",
+    "zip": "11434",
+    "district": "27",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.902821,
+     40.821722
+    ]
+   },
+   "properties": {
+    "name": "United Charter High School for Advanced Math and Science ll",
+    "type": "High School",
+    "address": "900 Tinton Avenue",
+    "borough": "Bronx",
+    "zip": "10456",
+    "district": "8",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.936711,
+     40.593505
+    ]
+   },
+   "properties": {
+    "name": "United Charter High School for Advanced Math and Science lll",
+    "type": "High School",
+    "address": "3000 Avenue X",
+    "borough": "Brooklyn",
+    "zip": "11235",
+    "district": "22",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.913122,
+     40.877248
+    ]
+   },
+   "properties": {
+    "name": "United Charter High School for the Humanities",
+    "type": "High School",
+    "address": "99 Terrace View Avenue",
+    "borough": "Manhattan",
+    "zip": "10463",
+    "district": "10",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.902821,
+     40.821722
+    ]
+   },
+   "properties": {
+    "name": "United Charter High School for the Humanities II",
+    "type": "High School",
+    "address": "900 Tinton Avenue",
+    "borough": "Bronx",
+    "zip": "10456",
+    "district": "8",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.823595,
+     40.586582
+    ]
+   },
+   "properties": {
+    "name": "United Charter High School for the Humanities lV",
+    "type": "High School",
+    "address": "100-00 Beach Channel Drive",
+    "borough": "Queens",
+    "zip": "11694",
+    "district": "27",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.940941,
+     40.686242
+    ]
+   },
+   "properties": {
+    "name": "Unity Preparatory Charter School of Brooklyn",
+    "type": "Secondary School",
+    "address": "432 Monroe Street",
+    "borough": "Brooklyn",
+    "zip": "11221",
+    "district": "13",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.912052,
+     40.814744
+    ]
+   },
+   "properties": {
+    "name": "University Prep Charter High School",
+    "type": "High School",
+    "address": "600 Saint Ann'S Avenue",
+    "borough": "Bronx",
+    "zip": "10455",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.909359,
+     40.811071
+    ]
+   },
+   "properties": {
+    "name": "University Prep Charter Middle School",
+    "type": "Junior High-Intermediate-Middle School",
+    "address": "470 Jackson Avenue",
+    "borough": "Bronx",
+    "zip": "10455",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.908418,
+     40.810423
+    ]
+   },
+   "properties": {
+    "name": "Urban Assembly Charter School for Computer Science",
+    "type": "High School",
+    "address": "447 Wales Avenue",
+    "borough": "Bronx",
+    "zip": "10455",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.955014,
+     40.622425
+    ]
+   },
+   "properties": {
+    "name": "Urban Dove Team Charter School",
+    "type": "High School",
+    "address": "1256 East 21 Street",
+    "borough": "Brooklyn",
+    "zip": "11210",
+    "district": "22",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.903616,
+     40.815681
+    ]
+   },
+   "properties": {
+    "name": "Urban Dove Team Charter School II",
+    "type": "High School",
+    "address": "671 Prospect Avenue",
+    "borough": "Bronx",
+    "zip": "10455",
+    "district": "8",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.919471,
+     40.761582
+    ]
+   },
+   "properties": {
+    "name": "Urban Dove Team Charter School III",
+    "type": "High School",
+    "address": "31-20 37 Street",
+    "borough": "Queens",
+    "zip": "11103",
+    "district": "30",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.935287,
+     40.801539
+    ]
+   },
+   "properties": {
+    "name": "Urban Dove Team Charter School IV",
+    "type": "High School",
+    "address": "230 East 123 Street",
+    "borough": "Manhattan",
+    "zip": "10035",
+    "district": "4",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.939725,
+     40.760305
+    ]
+   },
+   "properties": {
+    "name": "VOICE Charter School of New York",
+    "type": "K-8 School",
+    "address": "36-24 12 Street",
+    "borough": "Queens",
+    "zip": "11106",
+    "district": "30",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.858608,
+     40.729727
+    ]
+   },
+   "properties": {
+    "name": "Valence College Preparatory Charter School",
+    "type": "Junior High-Intermediate-Middle School",
+    "address": "97-29 64 Road",
+    "borough": "Queens",
+    "zip": "11374",
+    "district": "28",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.941398,
+     40.83643
+    ]
+   },
+   "properties": {
+    "name": "WHIN Music Community Charter School",
+    "type": "Elementary School",
+    "address": "528 West 162 Street",
+    "borough": "Manhattan",
+    "zip": "10032",
+    "district": "6",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.902498,
+     40.832991
+    ]
+   },
+   "properties": {
+    "name": "Wildflower New York Charter School",
+    "type": "Elementary School",
+    "address": "1332 Fulton Avenue",
+    "borough": "Bronx",
+    "zip": "10456",
+    "district": "9",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.935802,
+     40.703518
+    ]
+   },
+   "properties": {
+    "name": "Williamsburg Charter High School",
+    "type": "High School",
+    "address": "198 Varet Street",
+    "borough": "Brooklyn",
+    "zip": "11206",
+    "district": "14",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.919267,
+     40.838617
+    ]
+   },
+   "properties": {
+    "name": "Zeta Charter School \u2013 Mount Eden",
+    "type": "Elementary School",
+    "address": "1325 Jerome Avenue",
+    "borough": "Bronx",
+    "zip": "10452",
+    "district": "9",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.866419,
+     40.737339
+    ]
+   },
+   "properties": {
+    "name": "Zeta Charter School \u2013 Queens 2",
+    "type": "K-12 All Grades School",
+    "address": "55-30 Junction Boulevard",
+    "borough": "Queens",
+    "zip": "11373",
+    "district": "24",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.866419,
+     40.737339
+    ]
+   },
+   "properties": {
+    "name": "Zeta Charter School \u2013 Queens Elmhurst",
+    "type": "K-12 All Grades School",
+    "address": "55-30 Junction Boulevard",
+    "borough": "Queens",
+    "zip": "11373",
+    "district": "24",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.799341,
+     40.703088
+    ]
+   },
+   "properties": {
+    "name": "Zeta Charter School \u2013 Queens Jamaica",
+    "type": "K-12 All Grades School",
+    "address": "159-26 Jamaica Avenue",
+    "borough": "Queens",
+    "zip": "11432",
+    "district": "28",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.893029,
+     40.845457
+    ]
+   },
+   "properties": {
+    "name": "Zeta Charter School \u2013 Tremont Park",
+    "type": "Elementary School",
+    "address": "1910 Arthur Avenue",
+    "borough": "Bronx",
+    "zip": "10457",
+    "district": "12",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.912212,
+     40.870781
+    ]
+   },
+   "properties": {
+    "name": "Zeta Charter Schools - Inwood",
+    "type": "Elementary School",
+    "address": "401 West 218 Street",
+    "borough": "Manhattan",
+    "zip": "10034",
+    "district": "6",
+    "source": "NYC DOE (LCGMS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.91566,
+     40.816768
+    ]
+   },
+   "properties": {
+    "name": "Zeta Charter Schools - South Bronx",
+    "type": "Elementary School",
+    "address": "425 Westchester Avenue",
+    "borough": "Bronx",
+    "zip": "10455",
+    "district": "7",
+    "source": "NYC DOE (LCGMS)"
+   }
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NYC Charter Schools</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.min.css">
+  <style>
+    :root { --bg: #fff; --fg: #1d1d1f; --muted: #6b6b70; --line: #e3e3e6; }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; height: 100%; font: 14px/1.4 system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--fg); background: var(--bg); }
+    body { display: flex; }
+    #panel { width: 320px; padding: 16px; border-right: 1px solid var(--line); display: flex; flex-direction: column; gap: 12px; overflow-y: auto; }
+    #map { flex: 1; }
+    h1 { font-size: 20px; margin: 0; }
+    .muted { color: var(--muted); font-size: 12px; }
+    #count { font-size: 28px; font-weight: 600; }
+    input[type=search] { width: 100%; padding: 8px 10px; border: 1px solid var(--line); border-radius: 6px; font: inherit; }
+    fieldset { border: 0; padding: 0; margin: 0; }
+    legend { font-weight: 600; margin-bottom: 6px; }
+    label { display: flex; align-items: center; gap: 8px; padding: 2px 0; cursor: pointer; }
+    .swatch { width: 12px; height: 12px; border-radius: 50%; display: inline-block; }
+    .n { margin-left: auto; color: var(--muted); font-variant-numeric: tabular-nums; }
+    .popup b { font-size: 14px; }
+    .popup div { margin-top: 2px; }
+    @media (max-width: 700px) {
+      body { flex-direction: column; }
+      #panel { width: 100%; max-height: 40vh; border-right: 0; border-bottom: 1px solid var(--line); }
+    }
+  </style>
+</head>
+<body>
+  <aside id="panel">
+    <div>
+      <h1>NYC Charter Schools</h1>
+      <div class="muted">Every charter school site in the five boroughs</div>
+    </div>
+    <div><span id="count">–</span> <span class="muted">schools shown</span></div>
+    <input id="search" type="search" placeholder="Search by name or address…">
+    <fieldset id="boroughs"><legend>Borough</legend></fieldset>
+    <p class="muted">
+      Data: NYC Dept. of City Planning
+      <a href="https://data.cityofnewyork.us/d/ji82-xba5" target="_blank" rel="noopener">Facilities Database</a>
+      (NYC DOE LCGMS + NYSED records), via NYC Open Data. Basemap © OpenStreetMap contributors, © CARTO.
+    </p>
+  </aside>
+  <div id="map"></div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
+  <script>
+    const COLORS = {
+      Bronx: "#d1495b", Brooklyn: "#2e86ab", Manhattan: "#edae49",
+      Queens: "#3b9c6d", "Staten Island": "#7d5ba6",
+    };
+
+    const map = L.map("map").setView([40.71, -73.94], 11);
+    L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
+      maxZoom: 19,
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>',
+    }).addTo(map);
+    const cluster = L.markerClusterGroup({ maxClusterRadius: 40 }).addTo(map);
+
+    const esc = s => String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+    const search = document.getElementById("search");
+    const boroughBox = document.getElementById("boroughs");
+    let schools = [];
+
+    fetch("data/charter_schools.geojson")
+      .then(r => r.json())
+      .then(geo => {
+        schools = geo.features.map(f => {
+          const p = f.properties;
+          const [lon, lat] = f.geometry.coordinates;
+          const marker = L.circleMarker([lat, lon], {
+            radius: 7, weight: 1.5, color: "#fff", fillColor: COLORS[p.borough], fillOpacity: 0.9,
+          }).bindPopup(`<div class="popup"><b>${esc(p.name)}</b>
+            <div>${esc(p.address)}, ${esc(p.borough)}, NY ${esc(p.zip)}</div>
+            <div class="muted">${esc(p.type)}${p.district ? " · District " + esc(p.district) : ""}</div>
+            <div class="muted">Source: ${esc(p.source)}</div></div>`);
+          return { p, marker, text: `${p.name} ${p.address} ${p.zip}`.toLowerCase() };
+        });
+
+        for (const b of Object.keys(COLORS)) {
+          const n = schools.filter(s => s.p.borough === b).length;
+          boroughBox.insertAdjacentHTML("beforeend",
+            `<label><input type="checkbox" value="${b}" checked>
+             <span class="swatch" style="background:${COLORS[b]}"></span>${b}<span class="n">${n}</span></label>`);
+        }
+        boroughBox.addEventListener("change", render);
+        search.addEventListener("input", render);
+        render();
+      });
+
+    function render() {
+      const on = new Set([...boroughBox.querySelectorAll("input:checked")].map(i => i.value));
+      const q = search.value.trim().toLowerCase();
+      const visible = schools.filter(s => on.has(s.p.borough) && (!q || s.text.includes(q)));
+      cluster.clearLayers();
+      cluster.addLayers(visible.map(s => s.marker));
+      document.getElementById("count").textContent = visible.length;
+    }
+  </script>
+</body>
+</html>
