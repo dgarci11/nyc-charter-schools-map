@@ -2,7 +2,7 @@
 
 An interactive map of **462 charter school sites across New York City's five boroughs**.
 
-**Live map:** https://USERNAME.github.io/nyc-charter-schools-map/
+**Live map:** https://dgarci11.github.io/nyc-charter-schools-map/
 
 
 | Borough | Schools |
